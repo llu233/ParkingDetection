@@ -1,681 +1,681 @@
-2024-06-27 01:52:56,096 - Frame 1: Processing Time = 0.0156 seconds
-2024-06-27 01:52:56,377 - Frame 2: Processing Time = 0.0125 seconds
-2024-06-27 01:52:56,515 - Frame 3: Processing Time = 0.0120 seconds
-2024-06-27 01:52:56,578 - Frame 4: Processing Time = 0.0154 seconds
-2024-06-27 01:52:56,622 - Frame 5: Processing Time = 0.0137 seconds
-2024-06-27 01:52:56,682 - Frame 6: Processing Time = 0.0146 seconds
-2024-06-27 01:52:56,747 - Frame 7: Processing Time = 0.0119 seconds
-2024-06-27 01:52:56,784 - Frame 8: Processing Time = 0.0109 seconds
-2024-06-27 01:52:56,821 - Frame 9: Processing Time = 0.0094 seconds
-2024-06-27 01:52:56,854 - Frame 10: Processing Time = 0.0091 seconds
-2024-06-27 01:52:56,886 - Frame 11: Processing Time = 0.0084 seconds
-2024-06-27 01:52:56,919 - Frame 12: Processing Time = 0.0094 seconds
-2024-06-27 01:52:56,952 - Frame 13: Processing Time = 0.0084 seconds
-2024-06-27 01:52:56,984 - Frame 14: Processing Time = 0.0082 seconds
-2024-06-27 01:52:57,017 - Frame 15: Processing Time = 0.0082 seconds
-2024-06-27 01:52:57,048 - Frame 16: Processing Time = 0.0081 seconds
-2024-06-27 01:52:57,080 - Frame 17: Processing Time = 0.0081 seconds
-2024-06-27 01:52:57,114 - Frame 18: Processing Time = 0.0090 seconds
-2024-06-27 01:52:57,150 - Frame 19: Processing Time = 0.0090 seconds
-2024-06-27 01:52:57,185 - Frame 20: Processing Time = 0.0091 seconds
-2024-06-27 01:52:57,221 - Frame 21: Processing Time = 0.0095 seconds
-2024-06-27 01:52:57,259 - Frame 22: Processing Time = 0.0091 seconds
-2024-06-27 01:52:57,293 - Frame 23: Processing Time = 0.0090 seconds
-2024-06-27 01:52:57,328 - Frame 24: Processing Time = 0.0090 seconds
-2024-06-27 01:52:57,363 - Frame 25: Processing Time = 0.0098 seconds
-2024-06-27 01:52:57,397 - Frame 26: Processing Time = 0.0084 seconds
-2024-06-27 01:52:57,431 - Frame 27: Processing Time = 0.0084 seconds
-2024-06-27 01:52:57,464 - Frame 28: Processing Time = 0.0086 seconds
-2024-06-27 01:52:57,497 - Frame 29: Processing Time = 0.0086 seconds
-2024-06-27 01:52:57,530 - Frame 30: Processing Time = 0.0084 seconds
-2024-06-27 01:52:57,565 - Frame 31: Processing Time = 0.0096 seconds
-2024-06-27 01:52:57,599 - Frame 32: Processing Time = 0.0094 seconds
-2024-06-27 01:52:57,632 - Frame 33: Processing Time = 0.0086 seconds
-2024-06-27 01:52:57,665 - Frame 34: Processing Time = 0.0085 seconds
-2024-06-27 01:52:57,700 - Frame 35: Processing Time = 0.0096 seconds
-2024-06-27 01:52:57,733 - Frame 36: Processing Time = 0.0095 seconds
-2024-06-27 01:52:57,765 - Frame 37: Processing Time = 0.0086 seconds
-2024-06-27 01:52:57,798 - Frame 38: Processing Time = 0.0084 seconds
-2024-06-27 01:52:57,830 - Frame 39: Processing Time = 0.0085 seconds
-2024-06-27 01:52:57,863 - Frame 40: Processing Time = 0.0084 seconds
-2024-06-27 01:52:57,897 - Frame 41: Processing Time = 0.0084 seconds
-2024-06-27 01:52:57,930 - Frame 42: Processing Time = 0.0084 seconds
-2024-06-27 01:52:57,963 - Frame 43: Processing Time = 0.0084 seconds
-2024-06-27 01:52:57,997 - Frame 44: Processing Time = 0.0085 seconds
-2024-06-27 01:52:58,030 - Frame 45: Processing Time = 0.0083 seconds
-2024-06-27 01:52:58,063 - Frame 46: Processing Time = 0.0084 seconds
-2024-06-27 01:52:58,096 - Frame 47: Processing Time = 0.0085 seconds
-2024-06-27 01:52:58,132 - Frame 48: Processing Time = 0.0094 seconds
-2024-06-27 01:52:58,164 - Frame 49: Processing Time = 0.0084 seconds
-2024-06-27 01:52:58,196 - Frame 50: Processing Time = 0.0084 seconds
-2024-06-27 01:52:58,229 - Frame 51: Processing Time = 0.0084 seconds
-2024-06-27 01:52:58,263 - Frame 52: Processing Time = 0.0082 seconds
-2024-06-27 01:52:58,296 - Frame 53: Processing Time = 0.0087 seconds
-2024-06-27 01:52:58,329 - Frame 54: Processing Time = 0.0084 seconds
-2024-06-27 01:52:58,363 - Frame 55: Processing Time = 0.0095 seconds
-2024-06-27 01:52:58,396 - Frame 56: Processing Time = 0.0080 seconds
-2024-06-27 01:52:58,429 - Frame 57: Processing Time = 0.0092 seconds
-2024-06-27 01:52:58,463 - Frame 58: Processing Time = 0.0082 seconds
-2024-06-27 01:52:58,496 - Frame 59: Processing Time = 0.0082 seconds
-2024-06-27 01:52:58,530 - Frame 60: Processing Time = 0.0098 seconds
-2024-06-27 01:52:58,563 - Frame 61: Processing Time = 0.0080 seconds
-2024-06-27 01:52:58,596 - Frame 62: Processing Time = 0.0081 seconds
-2024-06-27 01:52:58,629 - Frame 63: Processing Time = 0.0081 seconds
-2024-06-27 01:52:58,663 - Frame 64: Processing Time = 0.0081 seconds
-2024-06-27 01:52:58,697 - Frame 65: Processing Time = 0.0083 seconds
-2024-06-27 01:52:58,731 - Frame 66: Processing Time = 0.0104 seconds
-2024-06-27 01:52:58,764 - Frame 67: Processing Time = 0.0084 seconds
-2024-06-27 01:52:58,797 - Frame 68: Processing Time = 0.0081 seconds
-2024-06-27 01:52:58,830 - Frame 69: Processing Time = 0.0081 seconds
-2024-06-27 01:52:58,863 - Frame 70: Processing Time = 0.0082 seconds
-2024-06-27 01:52:58,897 - Frame 71: Processing Time = 0.0100 seconds
-2024-06-27 01:52:58,930 - Frame 72: Processing Time = 0.0084 seconds
-2024-06-27 01:52:58,966 - Frame 73: Processing Time = 0.0105 seconds
-2024-06-27 01:52:59,000 - Frame 74: Processing Time = 0.0091 seconds
-2024-06-27 01:52:59,034 - Frame 75: Processing Time = 0.0092 seconds
-2024-06-27 01:52:59,067 - Frame 76: Processing Time = 0.0086 seconds
-2024-06-27 01:52:59,101 - Frame 77: Processing Time = 0.0092 seconds
-2024-06-27 01:52:59,135 - Frame 78: Processing Time = 0.0091 seconds
-2024-06-27 01:52:59,169 - Frame 79: Processing Time = 0.0090 seconds
-2024-06-27 01:52:59,201 - Frame 80: Processing Time = 0.0085 seconds
-2024-06-27 01:52:59,234 - Frame 81: Processing Time = 0.0086 seconds
-2024-06-27 01:52:59,267 - Frame 82: Processing Time = 0.0086 seconds
-2024-06-27 01:52:59,299 - Frame 83: Processing Time = 0.0085 seconds
-2024-06-27 01:52:59,332 - Frame 84: Processing Time = 0.0084 seconds
-2024-06-27 01:52:59,364 - Frame 85: Processing Time = 0.0081 seconds
-2024-06-27 01:52:59,396 - Frame 86: Processing Time = 0.0081 seconds
-2024-06-27 01:52:59,430 - Frame 87: Processing Time = 0.0084 seconds
-2024-06-27 01:52:59,463 - Frame 88: Processing Time = 0.0084 seconds
-2024-06-27 01:52:59,500 - Frame 89: Processing Time = 0.0119 seconds
-2024-06-27 01:52:59,534 - Frame 90: Processing Time = 0.0083 seconds
-2024-06-27 01:52:59,571 - Frame 91: Processing Time = 0.0099 seconds
-2024-06-27 01:52:59,614 - Frame 92: Processing Time = 0.0144 seconds
-2024-06-27 01:52:59,653 - Frame 93: Processing Time = 0.0100 seconds
-2024-06-27 01:52:59,693 - Frame 94: Processing Time = 0.0112 seconds
-2024-06-27 01:52:59,733 - Frame 95: Processing Time = 0.0148 seconds
-2024-06-27 01:52:59,772 - Frame 96: Processing Time = 0.0116 seconds
-2024-06-27 01:52:59,809 - Frame 97: Processing Time = 0.0096 seconds
-2024-06-27 01:52:59,844 - Frame 98: Processing Time = 0.0093 seconds
-2024-06-27 01:52:59,880 - Frame 99: Processing Time = 0.0102 seconds
-2024-06-27 01:52:59,914 - Frame 100: Processing Time = 0.0082 seconds
-2024-06-27 01:52:59,947 - Frame 101: Processing Time = 0.0087 seconds
-2024-06-27 01:52:59,980 - Frame 102: Processing Time = 0.0085 seconds
-2024-06-27 01:53:00,014 - Frame 103: Processing Time = 0.0090 seconds
-2024-06-27 01:53:00,047 - Frame 104: Processing Time = 0.0086 seconds
-2024-06-27 01:53:00,081 - Frame 105: Processing Time = 0.0087 seconds
-2024-06-27 01:53:00,115 - Frame 106: Processing Time = 0.0086 seconds
-2024-06-27 01:53:00,174 - Frame 107: Processing Time = 0.0145 seconds
-2024-06-27 01:53:00,227 - Frame 108: Processing Time = 0.0150 seconds
-2024-06-27 01:53:00,276 - Frame 109: Processing Time = 0.0140 seconds
-2024-06-27 01:53:00,321 - Frame 110: Processing Time = 0.0123 seconds
-2024-06-27 01:53:00,362 - Frame 111: Processing Time = 0.0101 seconds
-2024-06-27 01:53:00,400 - Frame 112: Processing Time = 0.0120 seconds
-2024-06-27 01:53:00,440 - Frame 113: Processing Time = 0.0091 seconds
-2024-06-27 01:53:00,474 - Frame 114: Processing Time = 0.0085 seconds
-2024-06-27 01:53:00,507 - Frame 115: Processing Time = 0.0085 seconds
-2024-06-27 01:53:00,539 - Frame 116: Processing Time = 0.0083 seconds
-2024-06-27 01:53:00,573 - Frame 117: Processing Time = 0.0105 seconds
-2024-06-27 01:53:00,608 - Frame 118: Processing Time = 0.0109 seconds
-2024-06-27 01:53:00,644 - Frame 119: Processing Time = 0.0106 seconds
-2024-06-27 01:53:00,680 - Frame 120: Processing Time = 0.0103 seconds
-2024-06-27 01:53:00,717 - Frame 121: Processing Time = 0.0109 seconds
-2024-06-27 01:53:00,758 - Frame 122: Processing Time = 0.0129 seconds
-2024-06-27 01:53:00,800 - Frame 123: Processing Time = 0.0147 seconds
-2024-06-27 01:53:00,838 - Frame 124: Processing Time = 0.0091 seconds
-2024-06-27 01:53:00,873 - Frame 125: Processing Time = 0.0098 seconds
-2024-06-27 01:53:00,908 - Frame 126: Processing Time = 0.0094 seconds
-2024-06-27 01:53:00,943 - Frame 127: Processing Time = 0.0096 seconds
-2024-06-27 01:53:00,981 - Frame 128: Processing Time = 0.0099 seconds
-2024-06-27 01:53:01,015 - Frame 129: Processing Time = 0.0088 seconds
-2024-06-27 01:53:01,051 - Frame 130: Processing Time = 0.0100 seconds
-2024-06-27 01:53:01,088 - Frame 131: Processing Time = 0.0101 seconds
-2024-06-27 01:53:01,124 - Frame 132: Processing Time = 0.0109 seconds
-2024-06-27 01:53:01,162 - Frame 133: Processing Time = 0.0114 seconds
-2024-06-27 01:53:01,203 - Frame 134: Processing Time = 0.0111 seconds
-2024-06-27 01:53:01,241 - Frame 135: Processing Time = 0.0104 seconds
-2024-06-27 01:53:01,278 - Frame 136: Processing Time = 0.0102 seconds
-2024-06-27 01:53:01,314 - Frame 137: Processing Time = 0.0083 seconds
-2024-06-27 01:53:01,347 - Frame 138: Processing Time = 0.0085 seconds
-2024-06-27 01:53:01,381 - Frame 139: Processing Time = 0.0085 seconds
-2024-06-27 01:53:01,414 - Frame 140: Processing Time = 0.0088 seconds
-2024-06-27 01:53:01,450 - Frame 141: Processing Time = 0.0090 seconds
-2024-06-27 01:53:01,486 - Frame 142: Processing Time = 0.0096 seconds
-2024-06-27 01:53:01,524 - Frame 143: Processing Time = 0.0122 seconds
-2024-06-27 01:53:01,562 - Frame 144: Processing Time = 0.0107 seconds
-2024-06-27 01:53:01,597 - Frame 145: Processing Time = 0.0083 seconds
-2024-06-27 01:53:01,632 - Frame 146: Processing Time = 0.0090 seconds
-2024-06-27 01:53:01,668 - Frame 147: Processing Time = 0.0094 seconds
-2024-06-27 01:53:01,715 - Frame 148: Processing Time = 0.0123 seconds
-2024-06-27 01:53:01,758 - Frame 149: Processing Time = 0.0120 seconds
-2024-06-27 01:53:01,796 - Frame 150: Processing Time = 0.0108 seconds
-2024-06-27 01:53:01,835 - Frame 151: Processing Time = 0.0106 seconds
-2024-06-27 01:53:01,870 - Frame 152: Processing Time = 0.0086 seconds
-2024-06-27 01:53:01,903 - Frame 153: Processing Time = 0.0084 seconds
-2024-06-27 01:53:01,936 - Frame 154: Processing Time = 0.0084 seconds
-2024-06-27 01:53:01,967 - Frame 155: Processing Time = 0.0083 seconds
-2024-06-27 01:53:02,001 - Frame 156: Processing Time = 0.0083 seconds
-2024-06-27 01:53:02,033 - Frame 157: Processing Time = 0.0083 seconds
-2024-06-27 01:53:02,066 - Frame 158: Processing Time = 0.0090 seconds
-2024-06-27 01:53:02,099 - Frame 159: Processing Time = 0.0089 seconds
-2024-06-27 01:53:02,132 - Frame 160: Processing Time = 0.0084 seconds
-2024-06-27 01:53:02,164 - Frame 161: Processing Time = 0.0087 seconds
-2024-06-27 01:53:02,199 - Frame 162: Processing Time = 0.0092 seconds
-2024-06-27 01:53:02,237 - Frame 163: Processing Time = 0.0097 seconds
-2024-06-27 01:53:02,277 - Frame 164: Processing Time = 0.0125 seconds
-2024-06-27 01:53:02,315 - Frame 165: Processing Time = 0.0108 seconds
-2024-06-27 01:53:02,355 - Frame 166: Processing Time = 0.0139 seconds
-2024-06-27 01:53:02,390 - Frame 167: Processing Time = 0.0090 seconds
-2024-06-27 01:53:02,426 - Frame 168: Processing Time = 0.0093 seconds
-2024-06-27 01:53:02,462 - Frame 169: Processing Time = 0.0100 seconds
-2024-06-27 01:53:02,498 - Frame 170: Processing Time = 0.0100 seconds
-2024-06-27 01:53:02,536 - Frame 171: Processing Time = 0.0118 seconds
-2024-06-27 01:53:02,569 - Frame 172: Processing Time = 0.0083 seconds
-2024-06-27 01:53:02,604 - Frame 173: Processing Time = 0.0083 seconds
-2024-06-27 01:53:02,641 - Frame 174: Processing Time = 0.0109 seconds
-2024-06-27 01:53:02,679 - Frame 175: Processing Time = 0.0130 seconds
-2024-06-27 01:53:02,718 - Frame 176: Processing Time = 0.0120 seconds
-2024-06-27 01:53:02,755 - Frame 177: Processing Time = 0.0112 seconds
-2024-06-27 01:53:02,791 - Frame 178: Processing Time = 0.0114 seconds
-2024-06-27 01:53:02,825 - Frame 179: Processing Time = 0.0090 seconds
-2024-06-27 01:53:02,858 - Frame 180: Processing Time = 0.0087 seconds
-2024-06-27 01:53:02,892 - Frame 181: Processing Time = 0.0086 seconds
-2024-06-27 01:53:02,927 - Frame 182: Processing Time = 0.0088 seconds
-2024-06-27 01:53:02,964 - Frame 183: Processing Time = 0.0101 seconds
-2024-06-27 01:53:02,999 - Frame 184: Processing Time = 0.0095 seconds
-2024-06-27 01:53:03,035 - Frame 185: Processing Time = 0.0106 seconds
-2024-06-27 01:53:03,072 - Frame 186: Processing Time = 0.0102 seconds
-2024-06-27 01:53:03,109 - Frame 187: Processing Time = 0.0107 seconds
-2024-06-27 01:53:03,147 - Frame 188: Processing Time = 0.0127 seconds
-2024-06-27 01:53:03,185 - Frame 189: Processing Time = 0.0123 seconds
-2024-06-27 01:53:03,225 - Frame 190: Processing Time = 0.0139 seconds
-2024-06-27 01:53:03,260 - Frame 191: Processing Time = 0.0087 seconds
-2024-06-27 01:53:03,294 - Frame 192: Processing Time = 0.0089 seconds
-2024-06-27 01:53:03,330 - Frame 193: Processing Time = 0.0089 seconds
-2024-06-27 01:53:03,366 - Frame 194: Processing Time = 0.0094 seconds
-2024-06-27 01:53:03,402 - Frame 195: Processing Time = 0.0093 seconds
-2024-06-27 01:53:03,437 - Frame 196: Processing Time = 0.0099 seconds
-2024-06-27 01:53:03,472 - Frame 197: Processing Time = 0.0096 seconds
-2024-06-27 01:53:03,507 - Frame 198: Processing Time = 0.0092 seconds
-2024-06-27 01:53:03,542 - Frame 199: Processing Time = 0.0095 seconds
-2024-06-27 01:53:03,580 - Frame 200: Processing Time = 0.0120 seconds
-2024-06-27 01:53:03,614 - Frame 201: Processing Time = 0.0098 seconds
-2024-06-27 01:53:03,651 - Frame 202: Processing Time = 0.0125 seconds
-2024-06-27 01:53:03,689 - Frame 203: Processing Time = 0.0120 seconds
-2024-06-27 01:53:03,725 - Frame 204: Processing Time = 0.0115 seconds
-2024-06-27 01:53:03,763 - Frame 205: Processing Time = 0.0127 seconds
-2024-06-27 01:53:03,802 - Frame 206: Processing Time = 0.0127 seconds
-2024-06-27 01:53:03,837 - Frame 207: Processing Time = 0.0093 seconds
-2024-06-27 01:53:03,871 - Frame 208: Processing Time = 0.0087 seconds
-2024-06-27 01:53:03,905 - Frame 209: Processing Time = 0.0099 seconds
-2024-06-27 01:53:03,940 - Frame 210: Processing Time = 0.0098 seconds
-2024-06-27 01:53:03,976 - Frame 211: Processing Time = 0.0101 seconds
-2024-06-27 01:53:04,018 - Frame 212: Processing Time = 0.0146 seconds
-2024-06-27 01:53:04,052 - Frame 213: Processing Time = 0.0098 seconds
-2024-06-27 01:53:04,085 - Frame 214: Processing Time = 0.0084 seconds
-2024-06-27 01:53:04,119 - Frame 215: Processing Time = 0.0083 seconds
-2024-06-27 01:53:04,154 - Frame 216: Processing Time = 0.0110 seconds
-2024-06-27 01:53:04,190 - Frame 217: Processing Time = 0.0105 seconds
-2024-06-27 01:53:04,231 - Frame 218: Processing Time = 0.0138 seconds
-2024-06-27 01:53:04,267 - Frame 219: Processing Time = 0.0105 seconds
-2024-06-27 01:53:04,302 - Frame 220: Processing Time = 0.0084 seconds
-2024-06-27 01:53:04,339 - Frame 221: Processing Time = 0.0121 seconds
-2024-06-27 01:53:04,378 - Frame 222: Processing Time = 0.0122 seconds
-2024-06-27 01:53:04,416 - Frame 223: Processing Time = 0.0122 seconds
-2024-06-27 01:53:04,451 - Frame 224: Processing Time = 0.0089 seconds
-2024-06-27 01:53:04,488 - Frame 225: Processing Time = 0.0097 seconds
-2024-06-27 01:53:04,523 - Frame 226: Processing Time = 0.0090 seconds
-2024-06-27 01:53:04,559 - Frame 227: Processing Time = 0.0092 seconds
-2024-06-27 01:53:04,595 - Frame 228: Processing Time = 0.0094 seconds
-2024-06-27 01:53:04,631 - Frame 229: Processing Time = 0.0096 seconds
-2024-06-27 01:53:04,665 - Frame 230: Processing Time = 0.0096 seconds
-2024-06-27 01:53:04,702 - Frame 231: Processing Time = 0.0100 seconds
-2024-06-27 01:53:04,739 - Frame 232: Processing Time = 0.0097 seconds
-2024-06-27 01:53:04,774 - Frame 233: Processing Time = 0.0083 seconds
-2024-06-27 01:53:04,809 - Frame 234: Processing Time = 0.0102 seconds
-2024-06-27 01:53:04,846 - Frame 235: Processing Time = 0.0122 seconds
-2024-06-27 01:53:04,884 - Frame 236: Processing Time = 0.0122 seconds
-2024-06-27 01:53:04,922 - Frame 237: Processing Time = 0.0115 seconds
-2024-06-27 01:53:04,958 - Frame 238: Processing Time = 0.0101 seconds
-2024-06-27 01:53:04,995 - Frame 239: Processing Time = 0.0123 seconds
-2024-06-27 01:53:05,034 - Frame 240: Processing Time = 0.0129 seconds
-2024-06-27 01:53:05,073 - Frame 241: Processing Time = 0.0125 seconds
-2024-06-27 01:53:05,111 - Frame 242: Processing Time = 0.0124 seconds
-2024-06-27 01:53:05,145 - Frame 243: Processing Time = 0.0102 seconds
-2024-06-27 01:53:05,183 - Frame 244: Processing Time = 0.0130 seconds
-2024-06-27 01:53:05,222 - Frame 245: Processing Time = 0.0122 seconds
-2024-06-27 01:53:05,258 - Frame 246: Processing Time = 0.0108 seconds
-2024-06-27 01:53:05,295 - Frame 247: Processing Time = 0.0116 seconds
-2024-06-27 01:53:05,334 - Frame 248: Processing Time = 0.0126 seconds
-2024-06-27 01:53:05,372 - Frame 249: Processing Time = 0.0123 seconds
-2024-06-27 01:53:05,410 - Frame 250: Processing Time = 0.0129 seconds
-2024-06-27 01:53:05,442 - Frame 251: Processing Time = 0.0083 seconds
-2024-06-27 01:53:05,479 - Frame 252: Processing Time = 0.0112 seconds
-2024-06-27 01:53:05,515 - Frame 253: Processing Time = 0.0120 seconds
-2024-06-27 01:53:05,554 - Frame 254: Processing Time = 0.0126 seconds
-2024-06-27 01:53:05,586 - Frame 255: Processing Time = 0.0085 seconds
-2024-06-27 01:53:05,623 - Frame 256: Processing Time = 0.0119 seconds
-2024-06-27 01:53:05,661 - Frame 257: Processing Time = 0.0120 seconds
-2024-06-27 01:53:05,699 - Frame 258: Processing Time = 0.0123 seconds
-2024-06-27 01:53:05,736 - Frame 259: Processing Time = 0.0115 seconds
-2024-06-27 01:53:05,773 - Frame 260: Processing Time = 0.0122 seconds
-2024-06-27 01:53:05,808 - Frame 261: Processing Time = 0.0097 seconds
-2024-06-27 01:53:05,845 - Frame 262: Processing Time = 0.0117 seconds
-2024-06-27 01:53:05,880 - Frame 263: Processing Time = 0.0110 seconds
-2024-06-27 01:53:05,915 - Frame 264: Processing Time = 0.0106 seconds
-2024-06-27 01:53:05,953 - Frame 265: Processing Time = 0.0128 seconds
-2024-06-27 01:53:05,990 - Frame 266: Processing Time = 0.0123 seconds
-2024-06-27 01:53:06,029 - Frame 267: Processing Time = 0.0120 seconds
-2024-06-27 01:53:06,067 - Frame 268: Processing Time = 0.0122 seconds
-2024-06-27 01:53:06,106 - Frame 269: Processing Time = 0.0130 seconds
-2024-06-27 01:53:06,145 - Frame 270: Processing Time = 0.0123 seconds
-2024-06-27 01:53:06,183 - Frame 271: Processing Time = 0.0125 seconds
-2024-06-27 01:53:06,221 - Frame 272: Processing Time = 0.0117 seconds
-2024-06-27 01:53:06,258 - Frame 273: Processing Time = 0.0119 seconds
-2024-06-27 01:53:06,296 - Frame 274: Processing Time = 0.0126 seconds
-2024-06-27 01:53:06,335 - Frame 275: Processing Time = 0.0138 seconds
-2024-06-27 01:53:06,370 - Frame 276: Processing Time = 0.0092 seconds
-2024-06-27 01:53:06,407 - Frame 277: Processing Time = 0.0091 seconds
-2024-06-27 01:53:06,442 - Frame 278: Processing Time = 0.0085 seconds
-2024-06-27 01:53:06,480 - Frame 279: Processing Time = 0.0121 seconds
-2024-06-27 01:53:06,517 - Frame 280: Processing Time = 0.0103 seconds
-2024-06-27 01:53:06,559 - Frame 281: Processing Time = 0.0102 seconds
-2024-06-27 01:53:06,604 - Frame 282: Processing Time = 0.0123 seconds
-2024-06-27 01:53:06,650 - Frame 283: Processing Time = 0.0104 seconds
-2024-06-27 01:53:06,693 - Frame 284: Processing Time = 0.0100 seconds
-2024-06-27 01:53:06,730 - Frame 285: Processing Time = 0.0095 seconds
-2024-06-27 01:53:06,765 - Frame 286: Processing Time = 0.0096 seconds
-2024-06-27 01:53:06,806 - Frame 287: Processing Time = 0.0112 seconds
-2024-06-27 01:53:06,843 - Frame 288: Processing Time = 0.0113 seconds
-2024-06-27 01:53:06,879 - Frame 289: Processing Time = 0.0114 seconds
-2024-06-27 01:53:06,915 - Frame 290: Processing Time = 0.0111 seconds
-2024-06-27 01:53:06,952 - Frame 291: Processing Time = 0.0114 seconds
-2024-06-27 01:53:06,984 - Frame 292: Processing Time = 0.0083 seconds
-2024-06-27 01:53:07,019 - Frame 293: Processing Time = 0.0107 seconds
-2024-06-27 01:53:07,057 - Frame 294: Processing Time = 0.0120 seconds
-2024-06-27 01:53:07,093 - Frame 295: Processing Time = 0.0113 seconds
-2024-06-27 01:53:07,149 - Frame 296: Processing Time = 0.0123 seconds
-2024-06-27 01:53:07,187 - Frame 297: Processing Time = 0.0121 seconds
-2024-06-27 01:53:07,225 - Frame 298: Processing Time = 0.0120 seconds
-2024-06-27 01:53:07,262 - Frame 299: Processing Time = 0.0126 seconds
-2024-06-27 01:53:07,300 - Frame 300: Processing Time = 0.0124 seconds
-2024-06-27 01:53:07,337 - Frame 301: Processing Time = 0.0125 seconds
-2024-06-27 01:53:07,375 - Frame 302: Processing Time = 0.0124 seconds
-2024-06-27 01:53:07,413 - Frame 303: Processing Time = 0.0123 seconds
-2024-06-27 01:53:07,452 - Frame 304: Processing Time = 0.0128 seconds
-2024-06-27 01:53:07,489 - Frame 305: Processing Time = 0.0125 seconds
-2024-06-27 01:53:07,528 - Frame 306: Processing Time = 0.0124 seconds
-2024-06-27 01:53:07,567 - Frame 307: Processing Time = 0.0129 seconds
-2024-06-27 01:53:07,605 - Frame 308: Processing Time = 0.0119 seconds
-2024-06-27 01:53:07,642 - Frame 309: Processing Time = 0.0118 seconds
-2024-06-27 01:53:07,680 - Frame 310: Processing Time = 0.0123 seconds
-2024-06-27 01:53:07,718 - Frame 311: Processing Time = 0.0119 seconds
-2024-06-27 01:53:07,755 - Frame 312: Processing Time = 0.0126 seconds
-2024-06-27 01:53:07,794 - Frame 313: Processing Time = 0.0120 seconds
-2024-06-27 01:53:07,833 - Frame 314: Processing Time = 0.0128 seconds
-2024-06-27 01:53:07,872 - Frame 315: Processing Time = 0.0123 seconds
-2024-06-27 01:53:07,909 - Frame 316: Processing Time = 0.0121 seconds
-2024-06-27 01:53:07,947 - Frame 317: Processing Time = 0.0124 seconds
-2024-06-27 01:53:07,984 - Frame 318: Processing Time = 0.0112 seconds
-2024-06-27 01:53:08,022 - Frame 319: Processing Time = 0.0128 seconds
-2024-06-27 01:53:08,057 - Frame 320: Processing Time = 0.0105 seconds
-2024-06-27 01:53:08,094 - Frame 321: Processing Time = 0.0122 seconds
-2024-06-27 01:53:08,132 - Frame 322: Processing Time = 0.0124 seconds
-2024-06-27 01:53:08,170 - Frame 323: Processing Time = 0.0124 seconds
-2024-06-27 01:53:08,207 - Frame 324: Processing Time = 0.0111 seconds
-2024-06-27 01:53:08,242 - Frame 325: Processing Time = 0.0109 seconds
-2024-06-27 01:53:08,280 - Frame 326: Processing Time = 0.0129 seconds
-2024-06-27 01:53:08,318 - Frame 327: Processing Time = 0.0117 seconds
-2024-06-27 01:53:08,355 - Frame 328: Processing Time = 0.0117 seconds
-2024-06-27 01:53:08,392 - Frame 329: Processing Time = 0.0130 seconds
-2024-06-27 01:53:08,431 - Frame 330: Processing Time = 0.0130 seconds
-2024-06-27 01:53:08,469 - Frame 331: Processing Time = 0.0123 seconds
-2024-06-27 01:53:08,508 - Frame 332: Processing Time = 0.0123 seconds
-2024-06-27 01:53:08,547 - Frame 333: Processing Time = 0.0129 seconds
-2024-06-27 01:53:08,583 - Frame 334: Processing Time = 0.0113 seconds
-2024-06-27 01:53:08,621 - Frame 335: Processing Time = 0.0126 seconds
-2024-06-27 01:53:08,659 - Frame 336: Processing Time = 0.0125 seconds
-2024-06-27 01:53:08,697 - Frame 337: Processing Time = 0.0127 seconds
-2024-06-27 01:53:08,736 - Frame 338: Processing Time = 0.0123 seconds
-2024-06-27 01:53:08,775 - Frame 339: Processing Time = 0.0116 seconds
-2024-06-27 01:53:08,809 - Frame 340: Processing Time = 0.0100 seconds
-2024-06-27 01:53:08,846 - Frame 341: Processing Time = 0.0126 seconds
-2024-06-27 01:53:08,883 - Frame 342: Processing Time = 0.0106 seconds
-2024-06-27 01:53:08,917 - Frame 343: Processing Time = 0.0099 seconds
-2024-06-27 01:53:08,955 - Frame 344: Processing Time = 0.0124 seconds
-2024-06-27 01:53:08,989 - Frame 345: Processing Time = 0.0097 seconds
-2024-06-27 01:53:09,023 - Frame 346: Processing Time = 0.0099 seconds
-2024-06-27 01:53:09,063 - Frame 347: Processing Time = 0.0135 seconds
-2024-06-27 01:53:09,111 - Frame 348: Processing Time = 0.0139 seconds
-2024-06-27 01:53:09,160 - Frame 349: Processing Time = 0.0142 seconds
-2024-06-27 01:53:09,204 - Frame 350: Processing Time = 0.0100 seconds
-2024-06-27 01:53:09,241 - Frame 351: Processing Time = 0.0113 seconds
-2024-06-27 01:53:09,279 - Frame 352: Processing Time = 0.0102 seconds
-2024-06-27 01:53:09,315 - Frame 353: Processing Time = 0.0107 seconds
-2024-06-27 01:53:09,359 - Frame 354: Processing Time = 0.0109 seconds
-2024-06-27 01:53:09,395 - Frame 355: Processing Time = 0.0105 seconds
-2024-06-27 01:53:09,431 - Frame 356: Processing Time = 0.0088 seconds
-2024-06-27 01:53:09,474 - Frame 357: Processing Time = 0.0134 seconds
-2024-06-27 01:53:09,522 - Frame 358: Processing Time = 0.0143 seconds
-2024-06-27 01:53:09,564 - Frame 359: Processing Time = 0.0097 seconds
-2024-06-27 01:53:09,604 - Frame 360: Processing Time = 0.0114 seconds
-2024-06-27 01:53:09,647 - Frame 361: Processing Time = 0.0121 seconds
-2024-06-27 01:53:09,690 - Frame 362: Processing Time = 0.0108 seconds
-2024-06-27 01:53:09,726 - Frame 363: Processing Time = 0.0102 seconds
-2024-06-27 01:53:09,763 - Frame 364: Processing Time = 0.0108 seconds
-2024-06-27 01:53:09,801 - Frame 365: Processing Time = 0.0122 seconds
-2024-06-27 01:53:09,837 - Frame 366: Processing Time = 0.0117 seconds
-2024-06-27 01:53:09,876 - Frame 367: Processing Time = 0.0128 seconds
-2024-06-27 01:53:09,915 - Frame 368: Processing Time = 0.0124 seconds
-2024-06-27 01:53:09,953 - Frame 369: Processing Time = 0.0115 seconds
-2024-06-27 01:53:09,990 - Frame 370: Processing Time = 0.0123 seconds
-2024-06-27 01:53:10,028 - Frame 371: Processing Time = 0.0124 seconds
-2024-06-27 01:53:10,065 - Frame 372: Processing Time = 0.0113 seconds
-2024-06-27 01:53:10,098 - Frame 373: Processing Time = 0.0086 seconds
-2024-06-27 01:53:10,134 - Frame 374: Processing Time = 0.0102 seconds
-2024-06-27 01:53:10,171 - Frame 375: Processing Time = 0.0099 seconds
-2024-06-27 01:53:10,206 - Frame 376: Processing Time = 0.0092 seconds
-2024-06-27 01:53:10,241 - Frame 377: Processing Time = 0.0093 seconds
-2024-06-27 01:53:10,277 - Frame 378: Processing Time = 0.0096 seconds
-2024-06-27 01:53:10,313 - Frame 379: Processing Time = 0.0104 seconds
-2024-06-27 01:53:10,352 - Frame 380: Processing Time = 0.0121 seconds
-2024-06-27 01:53:10,389 - Frame 381: Processing Time = 0.0118 seconds
-2024-06-27 01:53:10,427 - Frame 382: Processing Time = 0.0120 seconds
-2024-06-27 01:53:10,460 - Frame 383: Processing Time = 0.0081 seconds
-2024-06-27 01:53:10,497 - Frame 384: Processing Time = 0.0124 seconds
-2024-06-27 01:53:10,534 - Frame 385: Processing Time = 0.0122 seconds
-2024-06-27 01:53:10,573 - Frame 386: Processing Time = 0.0122 seconds
-2024-06-27 01:53:10,610 - Frame 387: Processing Time = 0.0115 seconds
-2024-06-27 01:53:10,648 - Frame 388: Processing Time = 0.0125 seconds
-2024-06-27 01:53:10,685 - Frame 389: Processing Time = 0.0123 seconds
-2024-06-27 01:53:10,725 - Frame 390: Processing Time = 0.0124 seconds
-2024-06-27 01:53:10,765 - Frame 391: Processing Time = 0.0130 seconds
-2024-06-27 01:53:10,801 - Frame 392: Processing Time = 0.0110 seconds
-2024-06-27 01:53:10,838 - Frame 393: Processing Time = 0.0111 seconds
-2024-06-27 01:53:10,873 - Frame 394: Processing Time = 0.0087 seconds
-2024-06-27 01:53:10,907 - Frame 395: Processing Time = 0.0085 seconds
-2024-06-27 01:53:10,940 - Frame 396: Processing Time = 0.0084 seconds
-2024-06-27 01:53:10,973 - Frame 397: Processing Time = 0.0090 seconds
-2024-06-27 01:53:11,010 - Frame 398: Processing Time = 0.0122 seconds
-2024-06-27 01:53:11,048 - Frame 399: Processing Time = 0.0119 seconds
-2024-06-27 01:53:11,081 - Frame 400: Processing Time = 0.0094 seconds
-2024-06-27 01:53:11,114 - Frame 401: Processing Time = 0.0093 seconds
-2024-06-27 01:53:11,153 - Frame 402: Processing Time = 0.0130 seconds
-2024-06-27 01:53:11,189 - Frame 403: Processing Time = 0.0115 seconds
-2024-06-27 01:53:11,225 - Frame 404: Processing Time = 0.0106 seconds
-2024-06-27 01:53:11,262 - Frame 405: Processing Time = 0.0126 seconds
-2024-06-27 01:53:11,314 - Frame 406: Processing Time = 0.0114 seconds
-2024-06-27 01:53:11,358 - Frame 407: Processing Time = 0.0105 seconds
-2024-06-27 01:53:11,395 - Frame 408: Processing Time = 0.0122 seconds
-2024-06-27 01:53:11,433 - Frame 409: Processing Time = 0.0124 seconds
-2024-06-27 01:53:11,470 - Frame 410: Processing Time = 0.0124 seconds
-2024-06-27 01:53:11,508 - Frame 411: Processing Time = 0.0120 seconds
-2024-06-27 01:53:11,547 - Frame 412: Processing Time = 0.0130 seconds
-2024-06-27 01:53:11,586 - Frame 413: Processing Time = 0.0126 seconds
-2024-06-27 01:53:11,624 - Frame 414: Processing Time = 0.0128 seconds
-2024-06-27 01:53:11,662 - Frame 415: Processing Time = 0.0124 seconds
-2024-06-27 01:53:11,701 - Frame 416: Processing Time = 0.0128 seconds
-2024-06-27 01:53:11,740 - Frame 417: Processing Time = 0.0123 seconds
-2024-06-27 01:53:11,778 - Frame 418: Processing Time = 0.0124 seconds
-2024-06-27 01:53:11,815 - Frame 419: Processing Time = 0.0127 seconds
-2024-06-27 01:53:11,854 - Frame 420: Processing Time = 0.0125 seconds
-2024-06-27 01:53:11,891 - Frame 421: Processing Time = 0.0124 seconds
-2024-06-27 01:53:11,929 - Frame 422: Processing Time = 0.0124 seconds
-2024-06-27 01:53:11,964 - Frame 423: Processing Time = 0.0104 seconds
-2024-06-27 01:53:12,000 - Frame 424: Processing Time = 0.0113 seconds
-2024-06-27 01:53:12,038 - Frame 425: Processing Time = 0.0123 seconds
-2024-06-27 01:53:12,076 - Frame 426: Processing Time = 0.0123 seconds
-2024-06-27 01:53:12,113 - Frame 427: Processing Time = 0.0125 seconds
-2024-06-27 01:53:12,152 - Frame 428: Processing Time = 0.0126 seconds
-2024-06-27 01:53:12,190 - Frame 429: Processing Time = 0.0122 seconds
-2024-06-27 01:53:12,227 - Frame 430: Processing Time = 0.0119 seconds
-2024-06-27 01:53:12,264 - Frame 431: Processing Time = 0.0116 seconds
-2024-06-27 01:53:12,302 - Frame 432: Processing Time = 0.0127 seconds
-2024-06-27 01:53:12,341 - Frame 433: Processing Time = 0.0124 seconds
-2024-06-27 01:53:12,379 - Frame 434: Processing Time = 0.0129 seconds
-2024-06-27 01:53:12,417 - Frame 435: Processing Time = 0.0116 seconds
-2024-06-27 01:53:12,454 - Frame 436: Processing Time = 0.0119 seconds
-2024-06-27 01:53:12,492 - Frame 437: Processing Time = 0.0124 seconds
-2024-06-27 01:53:12,526 - Frame 438: Processing Time = 0.0102 seconds
-2024-06-27 01:53:12,564 - Frame 439: Processing Time = 0.0130 seconds
-2024-06-27 01:53:12,600 - Frame 440: Processing Time = 0.0101 seconds
-2024-06-27 01:53:12,637 - Frame 441: Processing Time = 0.0118 seconds
-2024-06-27 01:53:12,673 - Frame 442: Processing Time = 0.0103 seconds
-2024-06-27 01:53:12,710 - Frame 443: Processing Time = 0.0123 seconds
-2024-06-27 01:53:12,747 - Frame 444: Processing Time = 0.0125 seconds
-2024-06-27 01:53:12,786 - Frame 445: Processing Time = 0.0129 seconds
-2024-06-27 01:53:12,823 - Frame 446: Processing Time = 0.0113 seconds
-2024-06-27 01:53:12,859 - Frame 447: Processing Time = 0.0117 seconds
-2024-06-27 01:53:12,897 - Frame 448: Processing Time = 0.0119 seconds
-2024-06-27 01:53:12,933 - Frame 449: Processing Time = 0.0112 seconds
-2024-06-27 01:53:12,971 - Frame 450: Processing Time = 0.0124 seconds
-2024-06-27 01:53:13,009 - Frame 451: Processing Time = 0.0122 seconds
-2024-06-27 01:53:13,047 - Frame 452: Processing Time = 0.0128 seconds
-2024-06-27 01:53:13,086 - Frame 453: Processing Time = 0.0129 seconds
-2024-06-27 01:53:13,125 - Frame 454: Processing Time = 0.0124 seconds
-2024-06-27 01:53:13,163 - Frame 455: Processing Time = 0.0121 seconds
-2024-06-27 01:53:13,201 - Frame 456: Processing Time = 0.0123 seconds
-2024-06-27 01:53:13,238 - Frame 457: Processing Time = 0.0116 seconds
-2024-06-27 01:53:13,275 - Frame 458: Processing Time = 0.0121 seconds
-2024-06-27 01:53:13,314 - Frame 459: Processing Time = 0.0125 seconds
-2024-06-27 01:53:13,352 - Frame 460: Processing Time = 0.0125 seconds
-2024-06-27 01:53:13,389 - Frame 461: Processing Time = 0.0114 seconds
-2024-06-27 01:53:13,426 - Frame 462: Processing Time = 0.0122 seconds
-2024-06-27 01:53:13,464 - Frame 463: Processing Time = 0.0123 seconds
-2024-06-27 01:53:13,502 - Frame 464: Processing Time = 0.0126 seconds
-2024-06-27 01:53:13,540 - Frame 465: Processing Time = 0.0127 seconds
-2024-06-27 01:53:13,576 - Frame 466: Processing Time = 0.0109 seconds
-2024-06-27 01:53:13,614 - Frame 467: Processing Time = 0.0124 seconds
-2024-06-27 01:53:13,652 - Frame 468: Processing Time = 0.0123 seconds
-2024-06-27 01:53:13,689 - Frame 469: Processing Time = 0.0123 seconds
-2024-06-27 01:53:13,726 - Frame 470: Processing Time = 0.0121 seconds
-2024-06-27 01:53:13,763 - Frame 471: Processing Time = 0.0115 seconds
-2024-06-27 01:53:13,796 - Frame 472: Processing Time = 0.0083 seconds
-2024-06-27 01:53:13,833 - Frame 473: Processing Time = 0.0122 seconds
-2024-06-27 01:53:13,869 - Frame 474: Processing Time = 0.0107 seconds
-2024-06-27 01:53:13,905 - Frame 475: Processing Time = 0.0104 seconds
-2024-06-27 01:53:13,941 - Frame 476: Processing Time = 0.0088 seconds
-2024-06-27 01:53:13,976 - Frame 477: Processing Time = 0.0093 seconds
-2024-06-27 01:53:14,010 - Frame 478: Processing Time = 0.0089 seconds
-2024-06-27 01:53:14,048 - Frame 479: Processing Time = 0.0122 seconds
-2024-06-27 01:53:14,083 - Frame 480: Processing Time = 0.0100 seconds
-2024-06-27 01:53:14,117 - Frame 481: Processing Time = 0.0101 seconds
-2024-06-27 01:53:14,155 - Frame 482: Processing Time = 0.0125 seconds
-2024-06-27 01:53:14,190 - Frame 483: Processing Time = 0.0106 seconds
-2024-06-27 01:53:14,225 - Frame 484: Processing Time = 0.0107 seconds
-2024-06-27 01:53:14,263 - Frame 485: Processing Time = 0.0118 seconds
-2024-06-27 01:53:14,299 - Frame 486: Processing Time = 0.0120 seconds
-2024-06-27 01:53:14,337 - Frame 487: Processing Time = 0.0128 seconds
-2024-06-27 01:53:14,375 - Frame 488: Processing Time = 0.0125 seconds
-2024-06-27 01:53:14,414 - Frame 489: Processing Time = 0.0128 seconds
-2024-06-27 01:53:14,451 - Frame 490: Processing Time = 0.0121 seconds
-2024-06-27 01:53:14,489 - Frame 491: Processing Time = 0.0120 seconds
-2024-06-27 01:53:14,522 - Frame 492: Processing Time = 0.0086 seconds
-2024-06-27 01:53:14,555 - Frame 493: Processing Time = 0.0090 seconds
-2024-06-27 01:53:14,593 - Frame 494: Processing Time = 0.0089 seconds
-2024-06-27 01:53:14,628 - Frame 495: Processing Time = 0.0087 seconds
-2024-06-27 01:53:14,665 - Frame 496: Processing Time = 0.0111 seconds
-2024-06-27 01:53:14,702 - Frame 497: Processing Time = 0.0125 seconds
-2024-06-27 01:53:14,737 - Frame 498: Processing Time = 0.0106 seconds
-2024-06-27 01:53:14,776 - Frame 499: Processing Time = 0.0131 seconds
-2024-06-27 01:53:14,811 - Frame 500: Processing Time = 0.0111 seconds
-2024-06-27 01:53:14,851 - Frame 501: Processing Time = 0.0125 seconds
-2024-06-27 01:53:14,888 - Frame 502: Processing Time = 0.0112 seconds
-2024-06-27 01:53:14,925 - Frame 503: Processing Time = 0.0122 seconds
-2024-06-27 01:53:14,962 - Frame 504: Processing Time = 0.0111 seconds
-2024-06-27 01:53:15,000 - Frame 505: Processing Time = 0.0129 seconds
-2024-06-27 01:53:15,038 - Frame 506: Processing Time = 0.0110 seconds
-2024-06-27 01:53:15,075 - Frame 507: Processing Time = 0.0123 seconds
-2024-06-27 01:53:15,112 - Frame 508: Processing Time = 0.0112 seconds
-2024-06-27 01:53:15,150 - Frame 509: Processing Time = 0.0129 seconds
-2024-06-27 01:53:15,189 - Frame 510: Processing Time = 0.0125 seconds
-2024-06-27 01:53:15,227 - Frame 511: Processing Time = 0.0124 seconds
-2024-06-27 01:53:15,267 - Frame 512: Processing Time = 0.0131 seconds
-2024-06-27 01:53:15,303 - Frame 513: Processing Time = 0.0111 seconds
-2024-06-27 01:53:15,340 - Frame 514: Processing Time = 0.0126 seconds
-2024-06-27 01:53:15,379 - Frame 515: Processing Time = 0.0115 seconds
-2024-06-27 01:53:15,417 - Frame 516: Processing Time = 0.0127 seconds
-2024-06-27 01:53:15,455 - Frame 517: Processing Time = 0.0129 seconds
-2024-06-27 01:53:15,494 - Frame 518: Processing Time = 0.0128 seconds
-2024-06-27 01:53:15,533 - Frame 519: Processing Time = 0.0125 seconds
-2024-06-27 01:53:15,572 - Frame 520: Processing Time = 0.0125 seconds
-2024-06-27 01:53:15,606 - Frame 521: Processing Time = 0.0099 seconds
-2024-06-27 01:53:15,642 - Frame 522: Processing Time = 0.0115 seconds
-2024-06-27 01:53:15,681 - Frame 523: Processing Time = 0.0125 seconds
-2024-06-27 01:53:15,718 - Frame 524: Processing Time = 0.0122 seconds
-2024-06-27 01:53:15,757 - Frame 525: Processing Time = 0.0135 seconds
-2024-06-27 01:53:15,794 - Frame 526: Processing Time = 0.0128 seconds
-2024-06-27 01:53:15,832 - Frame 527: Processing Time = 0.0122 seconds
-2024-06-27 01:53:15,870 - Frame 528: Processing Time = 0.0125 seconds
-2024-06-27 01:53:15,908 - Frame 529: Processing Time = 0.0113 seconds
-2024-06-27 01:53:15,946 - Frame 530: Processing Time = 0.0130 seconds
-2024-06-27 01:53:15,984 - Frame 531: Processing Time = 0.0123 seconds
-2024-06-27 01:53:16,022 - Frame 532: Processing Time = 0.0124 seconds
-2024-06-27 01:53:16,060 - Frame 533: Processing Time = 0.0123 seconds
-2024-06-27 01:53:16,099 - Frame 534: Processing Time = 0.0122 seconds
-2024-06-27 01:53:16,136 - Frame 535: Processing Time = 0.0124 seconds
-2024-06-27 01:53:16,175 - Frame 536: Processing Time = 0.0128 seconds
-2024-06-27 01:53:16,213 - Frame 537: Processing Time = 0.0123 seconds
-2024-06-27 01:53:16,251 - Frame 538: Processing Time = 0.0122 seconds
-2024-06-27 01:53:16,290 - Frame 539: Processing Time = 0.0125 seconds
-2024-06-27 01:53:16,329 - Frame 540: Processing Time = 0.0132 seconds
-2024-06-27 01:53:16,368 - Frame 541: Processing Time = 0.0125 seconds
-2024-06-27 01:53:16,406 - Frame 542: Processing Time = 0.0123 seconds
-2024-06-27 01:53:16,444 - Frame 543: Processing Time = 0.0127 seconds
-2024-06-27 01:53:16,483 - Frame 544: Processing Time = 0.0126 seconds
-2024-06-27 01:53:16,521 - Frame 545: Processing Time = 0.0125 seconds
-2024-06-27 01:53:16,558 - Frame 546: Processing Time = 0.0119 seconds
-2024-06-27 01:53:16,595 - Frame 547: Processing Time = 0.0121 seconds
-2024-06-27 01:53:16,633 - Frame 548: Processing Time = 0.0125 seconds
-2024-06-27 01:53:16,671 - Frame 549: Processing Time = 0.0128 seconds
-2024-06-27 01:53:16,708 - Frame 550: Processing Time = 0.0120 seconds
-2024-06-27 01:53:16,747 - Frame 551: Processing Time = 0.0132 seconds
-2024-06-27 01:53:16,785 - Frame 552: Processing Time = 0.0122 seconds
-2024-06-27 01:53:16,822 - Frame 553: Processing Time = 0.0128 seconds
-2024-06-27 01:53:16,860 - Frame 554: Processing Time = 0.0122 seconds
-2024-06-27 01:53:16,897 - Frame 555: Processing Time = 0.0125 seconds
-2024-06-27 01:53:16,936 - Frame 556: Processing Time = 0.0128 seconds
-2024-06-27 01:53:16,973 - Frame 557: Processing Time = 0.0112 seconds
-2024-06-27 01:53:17,010 - Frame 558: Processing Time = 0.0117 seconds
-2024-06-27 01:53:17,047 - Frame 559: Processing Time = 0.0120 seconds
-2024-06-27 01:53:17,085 - Frame 560: Processing Time = 0.0130 seconds
-2024-06-27 01:53:17,123 - Frame 561: Processing Time = 0.0125 seconds
-2024-06-27 01:53:17,160 - Frame 562: Processing Time = 0.0115 seconds
-2024-06-27 01:53:17,199 - Frame 563: Processing Time = 0.0125 seconds
-2024-06-27 01:53:17,237 - Frame 564: Processing Time = 0.0124 seconds
-2024-06-27 01:53:17,275 - Frame 565: Processing Time = 0.0120 seconds
-2024-06-27 01:53:17,313 - Frame 566: Processing Time = 0.0123 seconds
-2024-06-27 01:53:17,351 - Frame 567: Processing Time = 0.0129 seconds
-2024-06-27 01:53:17,388 - Frame 568: Processing Time = 0.0116 seconds
-2024-06-27 01:53:17,422 - Frame 569: Processing Time = 0.0106 seconds
-2024-06-27 01:53:17,457 - Frame 570: Processing Time = 0.0094 seconds
-2024-06-27 01:53:17,494 - Frame 571: Processing Time = 0.0114 seconds
-2024-06-27 01:53:17,531 - Frame 572: Processing Time = 0.0096 seconds
-2024-06-27 01:53:17,565 - Frame 573: Processing Time = 0.0089 seconds
-2024-06-27 01:53:17,598 - Frame 574: Processing Time = 0.0082 seconds
-2024-06-27 01:53:17,632 - Frame 575: Processing Time = 0.0103 seconds
-2024-06-27 01:53:17,664 - Frame 576: Processing Time = 0.0083 seconds
-2024-06-27 01:53:17,698 - Frame 577: Processing Time = 0.0094 seconds
-2024-06-27 01:53:17,733 - Frame 578: Processing Time = 0.0110 seconds
-2024-06-27 01:53:17,768 - Frame 579: Processing Time = 0.0103 seconds
-2024-06-27 01:53:17,802 - Frame 580: Processing Time = 0.0097 seconds
-2024-06-27 01:53:17,841 - Frame 581: Processing Time = 0.0128 seconds
-2024-06-27 01:53:17,879 - Frame 582: Processing Time = 0.0129 seconds
-2024-06-27 01:53:17,915 - Frame 583: Processing Time = 0.0107 seconds
-2024-06-27 01:53:17,953 - Frame 584: Processing Time = 0.0129 seconds
-2024-06-27 01:53:17,991 - Frame 585: Processing Time = 0.0125 seconds
-2024-06-27 01:53:18,029 - Frame 586: Processing Time = 0.0124 seconds
-2024-06-27 01:53:18,066 - Frame 587: Processing Time = 0.0120 seconds
-2024-06-27 01:53:18,104 - Frame 588: Processing Time = 0.0126 seconds
-2024-06-27 01:53:18,142 - Frame 589: Processing Time = 0.0127 seconds
-2024-06-27 01:53:18,180 - Frame 590: Processing Time = 0.0131 seconds
-2024-06-27 01:53:18,218 - Frame 591: Processing Time = 0.0119 seconds
-2024-06-27 01:53:18,253 - Frame 592: Processing Time = 0.0099 seconds
-2024-06-27 01:53:18,289 - Frame 593: Processing Time = 0.0099 seconds
-2024-06-27 01:53:18,326 - Frame 594: Processing Time = 0.0120 seconds
-2024-06-27 01:53:18,363 - Frame 595: Processing Time = 0.0116 seconds
-2024-06-27 01:53:18,400 - Frame 596: Processing Time = 0.0122 seconds
-2024-06-27 01:53:18,438 - Frame 597: Processing Time = 0.0117 seconds
-2024-06-27 01:53:18,470 - Frame 598: Processing Time = 0.0082 seconds
-2024-06-27 01:53:18,505 - Frame 599: Processing Time = 0.0112 seconds
-2024-06-27 01:53:18,543 - Frame 600: Processing Time = 0.0128 seconds
-2024-06-27 01:53:18,581 - Frame 601: Processing Time = 0.0138 seconds
-2024-06-27 01:53:18,620 - Frame 602: Processing Time = 0.0124 seconds
-2024-06-27 01:53:18,658 - Frame 603: Processing Time = 0.0131 seconds
-2024-06-27 01:53:18,697 - Frame 604: Processing Time = 0.0118 seconds
-2024-06-27 01:53:18,733 - Frame 605: Processing Time = 0.0120 seconds
-2024-06-27 01:53:18,771 - Frame 606: Processing Time = 0.0125 seconds
-2024-06-27 01:53:18,809 - Frame 607: Processing Time = 0.0126 seconds
-2024-06-27 01:53:18,847 - Frame 608: Processing Time = 0.0130 seconds
-2024-06-27 01:53:18,885 - Frame 609: Processing Time = 0.0120 seconds
-2024-06-27 01:53:18,923 - Frame 610: Processing Time = 0.0124 seconds
-2024-06-27 01:53:18,961 - Frame 611: Processing Time = 0.0128 seconds
-2024-06-27 01:53:19,000 - Frame 612: Processing Time = 0.0123 seconds
-2024-06-27 01:53:19,038 - Frame 613: Processing Time = 0.0118 seconds
-2024-06-27 01:53:19,071 - Frame 614: Processing Time = 0.0088 seconds
-2024-06-27 01:53:19,108 - Frame 615: Processing Time = 0.0120 seconds
-2024-06-27 01:53:19,145 - Frame 616: Processing Time = 0.0116 seconds
-2024-06-27 01:53:19,183 - Frame 617: Processing Time = 0.0126 seconds
-2024-06-27 01:53:19,220 - Frame 618: Processing Time = 0.0117 seconds
-2024-06-27 01:53:19,258 - Frame 619: Processing Time = 0.0127 seconds
-2024-06-27 01:53:19,297 - Frame 620: Processing Time = 0.0121 seconds
-2024-06-27 01:53:19,334 - Frame 621: Processing Time = 0.0120 seconds
-2024-06-27 01:53:19,372 - Frame 622: Processing Time = 0.0116 seconds
-2024-06-27 01:53:19,408 - Frame 623: Processing Time = 0.0117 seconds
-2024-06-27 01:53:19,446 - Frame 624: Processing Time = 0.0118 seconds
-2024-06-27 01:53:19,481 - Frame 625: Processing Time = 0.0108 seconds
-2024-06-27 01:53:19,519 - Frame 626: Processing Time = 0.0125 seconds
-2024-06-27 01:53:19,557 - Frame 627: Processing Time = 0.0118 seconds
-2024-06-27 01:53:19,595 - Frame 628: Processing Time = 0.0135 seconds
-2024-06-27 01:53:19,633 - Frame 629: Processing Time = 0.0123 seconds
-2024-06-27 01:53:19,670 - Frame 630: Processing Time = 0.0114 seconds
-2024-06-27 01:53:19,708 - Frame 631: Processing Time = 0.0126 seconds
-2024-06-27 01:53:19,745 - Frame 632: Processing Time = 0.0125 seconds
-2024-06-27 01:53:19,783 - Frame 633: Processing Time = 0.0124 seconds
-2024-06-27 01:53:19,821 - Frame 634: Processing Time = 0.0119 seconds
-2024-06-27 01:53:19,858 - Frame 635: Processing Time = 0.0119 seconds
-2024-06-27 01:53:19,896 - Frame 636: Processing Time = 0.0126 seconds
-2024-06-27 01:53:19,934 - Frame 637: Processing Time = 0.0127 seconds
-2024-06-27 01:53:19,972 - Frame 638: Processing Time = 0.0127 seconds
-2024-06-27 01:53:20,011 - Frame 639: Processing Time = 0.0127 seconds
-2024-06-27 01:53:20,049 - Frame 640: Processing Time = 0.0124 seconds
-2024-06-27 01:53:20,088 - Frame 641: Processing Time = 0.0129 seconds
-2024-06-27 01:53:20,127 - Frame 642: Processing Time = 0.0132 seconds
-2024-06-27 01:53:20,165 - Frame 643: Processing Time = 0.0117 seconds
-2024-06-27 01:53:20,203 - Frame 644: Processing Time = 0.0119 seconds
-2024-06-27 01:53:20,240 - Frame 645: Processing Time = 0.0127 seconds
-2024-06-27 01:53:20,278 - Frame 646: Processing Time = 0.0121 seconds
-2024-06-27 01:53:20,314 - Frame 647: Processing Time = 0.0108 seconds
-2024-06-27 01:53:20,349 - Frame 648: Processing Time = 0.0101 seconds
-2024-06-27 01:53:20,382 - Frame 649: Processing Time = 0.0087 seconds
-2024-06-27 01:53:20,419 - Frame 650: Processing Time = 0.0117 seconds
-2024-06-27 01:53:20,456 - Frame 651: Processing Time = 0.0110 seconds
-2024-06-27 01:53:20,500 - Frame 652: Processing Time = 0.0120 seconds
-2024-06-27 01:53:20,538 - Frame 653: Processing Time = 0.0106 seconds
-2024-06-27 01:53:20,576 - Frame 654: Processing Time = 0.0115 seconds
-2024-06-27 01:53:20,619 - Frame 655: Processing Time = 0.0109 seconds
-2024-06-27 01:53:20,655 - Frame 656: Processing Time = 0.0083 seconds
-2024-06-27 01:53:20,691 - Frame 657: Processing Time = 0.0115 seconds
-2024-06-27 01:53:20,728 - Frame 658: Processing Time = 0.0120 seconds
-2024-06-27 01:53:20,767 - Frame 659: Processing Time = 0.0128 seconds
-2024-06-27 01:53:20,822 - Frame 660: Processing Time = 0.0126 seconds
-2024-06-27 01:53:20,860 - Frame 661: Processing Time = 0.0126 seconds
-2024-06-27 01:53:20,898 - Frame 662: Processing Time = 0.0125 seconds
-2024-06-27 01:53:20,933 - Frame 663: Processing Time = 0.0099 seconds
-2024-06-27 01:53:20,972 - Frame 664: Processing Time = 0.0100 seconds
-2024-06-27 01:53:21,007 - Frame 665: Processing Time = 0.0100 seconds
-2024-06-27 01:53:21,043 - Frame 666: Processing Time = 0.0104 seconds
-2024-06-27 01:53:21,078 - Frame 667: Processing Time = 0.0100 seconds
-2024-06-27 01:53:21,112 - Frame 668: Processing Time = 0.0092 seconds
-2024-06-27 01:53:21,147 - Frame 669: Processing Time = 0.0092 seconds
-2024-06-27 01:53:21,179 - Frame 670: Processing Time = 0.0086 seconds
-2024-06-27 01:53:21,213 - Frame 671: Processing Time = 0.0083 seconds
-2024-06-27 01:53:21,248 - Frame 672: Processing Time = 0.0106 seconds
-2024-06-27 01:53:21,286 - Frame 673: Processing Time = 0.0126 seconds
-2024-06-27 01:53:21,325 - Frame 674: Processing Time = 0.0134 seconds
-2024-06-27 01:53:21,363 - Frame 675: Processing Time = 0.0115 seconds
-2024-06-27 01:53:21,397 - Frame 676: Processing Time = 0.0089 seconds
-2024-06-27 01:53:21,431 - Frame 677: Processing Time = 0.0094 seconds
-2024-06-27 01:53:21,466 - Frame 678: Processing Time = 0.0091 seconds
-2024-06-27 01:53:21,501 - Frame 679: Processing Time = 0.0087 seconds
-2024-06-27 01:53:21,526 - Average Processing Time per Frame: 0.0110 seconds
-2024-06-27 01:53:21,526 - Total Processing Time: 7.4774 seconds
+2024-07-26 15:14:06,296 - Frame 1: Processing Time = 0.0147 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:06,671 - Frame 2: Processing Time = 0.0113 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:06,852 - Frame 3: Processing Time = 0.0409 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:06,912 - Frame 4: Processing Time = 0.0147 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:06,970 - Frame 5: Processing Time = 0.0194 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:07,047 - Frame 6: Processing Time = 0.0101 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:07,100 - Frame 7: Processing Time = 0.0097 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:07,147 - Frame 8: Processing Time = 0.0134 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:07,196 - Frame 9: Processing Time = 0.0095 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:07,232 - Frame 10: Processing Time = 0.0095 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:07,268 - Frame 11: Processing Time = 0.0103 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:07,305 - Frame 12: Processing Time = 0.0110 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:07,337 - Frame 13: Processing Time = 0.0086 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:07,373 - Frame 14: Processing Time = 0.0087 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:07,406 - Frame 15: Processing Time = 0.0085 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:07,440 - Frame 16: Processing Time = 0.0085 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:07,473 - Frame 17: Processing Time = 0.0087 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:07,506 - Frame 18: Processing Time = 0.0086 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:07,539 - Frame 19: Processing Time = 0.0082 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:07,572 - Frame 20: Processing Time = 0.0089 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:07,605 - Frame 21: Processing Time = 0.0089 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:07,638 - Frame 22: Processing Time = 0.0089 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:07,673 - Frame 23: Processing Time = 0.0087 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:07,707 - Frame 24: Processing Time = 0.0091 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:07,740 - Frame 25: Processing Time = 0.0087 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:07,774 - Frame 26: Processing Time = 0.0099 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:07,810 - Frame 27: Processing Time = 0.0117 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:07,845 - Frame 28: Processing Time = 0.0091 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:07,877 - Frame 29: Processing Time = 0.0082 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:07,911 - Frame 30: Processing Time = 0.0087 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:07,945 - Frame 31: Processing Time = 0.0092 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:07,977 - Frame 32: Processing Time = 0.0083 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:08,012 - Frame 33: Processing Time = 0.0095 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:08,044 - Frame 34: Processing Time = 0.0083 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:08,079 - Frame 35: Processing Time = 0.0097 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:08,113 - Frame 36: Processing Time = 0.0099 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:08,153 - Frame 37: Processing Time = 0.0098 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:08,190 - Frame 38: Processing Time = 0.0128 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:08,227 - Frame 39: Processing Time = 0.0123 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:08,260 - Frame 40: Processing Time = 0.0083 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:08,293 - Frame 41: Processing Time = 0.0084 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:08,326 - Frame 42: Processing Time = 0.0082 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:08,360 - Frame 43: Processing Time = 0.0091 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:08,397 - Frame 44: Processing Time = 0.0115 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:08,430 - Frame 45: Processing Time = 0.0089 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:08,462 - Frame 46: Processing Time = 0.0083 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:08,494 - Frame 47: Processing Time = 0.0083 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:08,527 - Frame 48: Processing Time = 0.0091 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:08,561 - Frame 49: Processing Time = 0.0091 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:08,596 - Frame 50: Processing Time = 0.0104 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:08,646 - Frame 51: Processing Time = 0.0105 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:08,678 - Frame 52: Processing Time = 0.0083 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:08,711 - Frame 53: Processing Time = 0.0082 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:08,746 - Frame 54: Processing Time = 0.0094 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:08,780 - Frame 55: Processing Time = 0.0098 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:08,812 - Frame 56: Processing Time = 0.0081 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:08,845 - Frame 57: Processing Time = 0.0091 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:08,878 - Frame 58: Processing Time = 0.0082 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:08,912 - Frame 59: Processing Time = 0.0091 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:08,947 - Frame 60: Processing Time = 0.0104 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:08,982 - Frame 61: Processing Time = 0.0106 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:09,017 - Frame 62: Processing Time = 0.0100 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:09,050 - Frame 63: Processing Time = 0.0089 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:09,085 - Frame 64: Processing Time = 0.0099 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:09,120 - Frame 65: Processing Time = 0.0091 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:09,154 - Frame 66: Processing Time = 0.0097 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:09,191 - Frame 67: Processing Time = 0.0119 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:09,231 - Frame 68: Processing Time = 0.0128 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:09,268 - Frame 69: Processing Time = 0.0095 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:09,306 - Frame 70: Processing Time = 0.0129 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:09,346 - Frame 71: Processing Time = 0.0128 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:09,381 - Frame 72: Processing Time = 0.0082 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:09,414 - Frame 73: Processing Time = 0.0082 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:09,451 - Frame 74: Processing Time = 0.0088 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:09,487 - Frame 75: Processing Time = 0.0102 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:09,525 - Frame 76: Processing Time = 0.0129 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:09,563 - Frame 77: Processing Time = 0.0111 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:09,598 - Frame 78: Processing Time = 0.0086 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:09,634 - Frame 79: Processing Time = 0.0087 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:09,669 - Frame 80: Processing Time = 0.0086 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:09,704 - Frame 81: Processing Time = 0.0099 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:09,740 - Frame 82: Processing Time = 0.0116 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:09,780 - Frame 83: Processing Time = 0.0129 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:09,816 - Frame 84: Processing Time = 0.0087 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:09,851 - Frame 85: Processing Time = 0.0093 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:09,885 - Frame 86: Processing Time = 0.0096 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:09,922 - Frame 87: Processing Time = 0.0120 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:09,962 - Frame 88: Processing Time = 0.0126 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:09,999 - Frame 89: Processing Time = 0.0105 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,036 - Frame 90: Processing Time = 0.0113 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,070 - Frame 91: Processing Time = 0.0098 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,111 - Frame 92: Processing Time = 0.0144 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,148 - Frame 93: Processing Time = 0.0098 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,184 - Frame 94: Processing Time = 0.0085 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,219 - Frame 95: Processing Time = 0.0093 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,252 - Frame 96: Processing Time = 0.0091 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,286 - Frame 97: Processing Time = 0.0093 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,319 - Frame 98: Processing Time = 0.0092 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,352 - Frame 99: Processing Time = 0.0090 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,389 - Frame 100: Processing Time = 0.0115 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,428 - Frame 101: Processing Time = 0.0126 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,464 - Frame 102: Processing Time = 0.0114 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,498 - Frame 103: Processing Time = 0.0090 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,531 - Frame 104: Processing Time = 0.0089 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,566 - Frame 105: Processing Time = 0.0103 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,602 - Frame 106: Processing Time = 0.0106 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,639 - Frame 107: Processing Time = 0.0118 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,677 - Frame 108: Processing Time = 0.0127 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,711 - Frame 109: Processing Time = 0.0097 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,746 - Frame 110: Processing Time = 0.0110 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,782 - Frame 111: Processing Time = 0.0097 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,815 - Frame 112: Processing Time = 0.0081 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,848 - Frame 113: Processing Time = 0.0083 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,881 - Frame 114: Processing Time = 0.0081 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,918 - Frame 115: Processing Time = 0.0107 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:10,954 - Frame 116: Processing Time = 0.0112 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:10,991 - Frame 117: Processing Time = 0.0114 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:11,030 - Frame 118: Processing Time = 0.0128 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,066 - Frame 119: Processing Time = 0.0114 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,101 - Frame 120: Processing Time = 0.0100 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,135 - Frame 121: Processing Time = 0.0092 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,179 - Frame 122: Processing Time = 0.0141 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,214 - Frame 123: Processing Time = 0.0102 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,248 - Frame 124: Processing Time = 0.0085 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,282 - Frame 125: Processing Time = 0.0086 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,315 - Frame 126: Processing Time = 0.0082 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,348 - Frame 127: Processing Time = 0.0084 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,384 - Frame 128: Processing Time = 0.0093 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,417 - Frame 129: Processing Time = 0.0082 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,449 - Frame 130: Processing Time = 0.0082 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,482 - Frame 131: Processing Time = 0.0081 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,514 - Frame 132: Processing Time = 0.0083 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,547 - Frame 133: Processing Time = 0.0082 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,580 - Frame 134: Processing Time = 0.0082 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,614 - Frame 135: Processing Time = 0.0105 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,648 - Frame 136: Processing Time = 0.0085 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,682 - Frame 137: Processing Time = 0.0100 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,720 - Frame 138: Processing Time = 0.0091 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,754 - Frame 139: Processing Time = 0.0093 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,792 - Frame 140: Processing Time = 0.0122 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,828 - Frame 141: Processing Time = 0.0121 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,864 - Frame 142: Processing Time = 0.0111 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,899 - Frame 143: Processing Time = 0.0101 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,936 - Frame 144: Processing Time = 0.0111 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:11,970 - Frame 145: Processing Time = 0.0089 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:12,005 - Frame 146: Processing Time = 0.0113 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:12,038 - Frame 147: Processing Time = 0.0096 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:12,073 - Frame 148: Processing Time = 0.0102 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:12,110 - Frame 149: Processing Time = 0.0118 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:12,149 - Frame 150: Processing Time = 0.0128 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:12,184 - Frame 151: Processing Time = 0.0089 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:12,219 - Frame 152: Processing Time = 0.0101 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:12,251 - Frame 153: Processing Time = 0.0087 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:12,285 - Frame 154: Processing Time = 0.0092 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:12,318 - Frame 155: Processing Time = 0.0096 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:12,351 - Frame 156: Processing Time = 0.0094 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:12,385 - Frame 157: Processing Time = 0.0097 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:12,418 - Frame 158: Processing Time = 0.0094 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:12,451 - Frame 159: Processing Time = 0.0093 seconds, Empty Spaces = 12/69
+2024-07-26 15:14:12,484 - Frame 160: Processing Time = 0.0090 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:12,518 - Frame 161: Processing Time = 0.0095 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:12,551 - Frame 162: Processing Time = 0.0092 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:12,583 - Frame 163: Processing Time = 0.0081 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:12,617 - Frame 164: Processing Time = 0.0093 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:12,653 - Frame 165: Processing Time = 0.0106 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:12,687 - Frame 166: Processing Time = 0.0106 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:12,725 - Frame 167: Processing Time = 0.0121 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:12,765 - Frame 168: Processing Time = 0.0154 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:12,806 - Frame 169: Processing Time = 0.0138 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:12,850 - Frame 170: Processing Time = 0.0104 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:12,888 - Frame 171: Processing Time = 0.0127 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:12,923 - Frame 172: Processing Time = 0.0085 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:12,957 - Frame 173: Processing Time = 0.0085 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:12,991 - Frame 174: Processing Time = 0.0088 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:13,028 - Frame 175: Processing Time = 0.0127 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:13,066 - Frame 176: Processing Time = 0.0123 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:13,103 - Frame 177: Processing Time = 0.0103 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:13,135 - Frame 178: Processing Time = 0.0080 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:13,171 - Frame 179: Processing Time = 0.0087 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:13,206 - Frame 180: Processing Time = 0.0105 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:13,243 - Frame 181: Processing Time = 0.0117 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:13,281 - Frame 182: Processing Time = 0.0133 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:13,319 - Frame 183: Processing Time = 0.0114 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:13,353 - Frame 184: Processing Time = 0.0091 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:13,414 - Frame 185: Processing Time = 0.0151 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:13,478 - Frame 186: Processing Time = 0.0141 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:13,519 - Frame 187: Processing Time = 0.0114 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:13,566 - Frame 188: Processing Time = 0.0187 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:13,630 - Frame 189: Processing Time = 0.0132 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:13,704 - Frame 190: Processing Time = 0.0161 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:13,780 - Frame 191: Processing Time = 0.0168 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:13,817 - Frame 192: Processing Time = 0.0113 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:13,853 - Frame 193: Processing Time = 0.0089 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:13,889 - Frame 194: Processing Time = 0.0106 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:13,925 - Frame 195: Processing Time = 0.0106 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:13,962 - Frame 196: Processing Time = 0.0109 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:13,997 - Frame 197: Processing Time = 0.0109 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:14,033 - Frame 198: Processing Time = 0.0107 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:14,071 - Frame 199: Processing Time = 0.0126 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:14,111 - Frame 200: Processing Time = 0.0114 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:14,151 - Frame 201: Processing Time = 0.0152 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:14,201 - Frame 202: Processing Time = 0.0154 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:14,236 - Frame 203: Processing Time = 0.0096 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:14,271 - Frame 204: Processing Time = 0.0096 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:14,310 - Frame 205: Processing Time = 0.0108 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:14,344 - Frame 206: Processing Time = 0.0081 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:14,378 - Frame 207: Processing Time = 0.0085 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:14,413 - Frame 208: Processing Time = 0.0101 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:14,448 - Frame 209: Processing Time = 0.0101 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:14,485 - Frame 210: Processing Time = 0.0120 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:14,525 - Frame 211: Processing Time = 0.0144 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:14,568 - Frame 212: Processing Time = 0.0121 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:14,612 - Frame 213: Processing Time = 0.0134 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:14,663 - Frame 214: Processing Time = 0.0110 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:14,703 - Frame 215: Processing Time = 0.0103 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:14,746 - Frame 216: Processing Time = 0.0124 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:14,789 - Frame 217: Processing Time = 0.0118 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:14,832 - Frame 218: Processing Time = 0.0106 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:14,896 - Frame 219: Processing Time = 0.0151 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:14,995 - Frame 220: Processing Time = 0.0187 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:15,110 - Frame 221: Processing Time = 0.0259 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:15,163 - Frame 222: Processing Time = 0.0140 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:15,202 - Frame 223: Processing Time = 0.0106 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:15,296 - Frame 224: Processing Time = 0.0115 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:15,333 - Frame 225: Processing Time = 0.0114 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:15,370 - Frame 226: Processing Time = 0.0101 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:15,415 - Frame 227: Processing Time = 0.0105 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:15,470 - Frame 228: Processing Time = 0.0155 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:15,513 - Frame 229: Processing Time = 0.0141 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:15,548 - Frame 230: Processing Time = 0.0087 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:15,582 - Frame 231: Processing Time = 0.0084 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:15,615 - Frame 232: Processing Time = 0.0086 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:15,650 - Frame 233: Processing Time = 0.0082 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:15,685 - Frame 234: Processing Time = 0.0082 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:15,717 - Frame 235: Processing Time = 0.0080 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:15,753 - Frame 236: Processing Time = 0.0105 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:15,787 - Frame 237: Processing Time = 0.0100 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:15,821 - Frame 238: Processing Time = 0.0086 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:15,854 - Frame 239: Processing Time = 0.0085 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:15,906 - Frame 240: Processing Time = 0.0141 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:15,949 - Frame 241: Processing Time = 0.0109 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:15,991 - Frame 242: Processing Time = 0.0131 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:16,025 - Frame 243: Processing Time = 0.0092 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:16,063 - Frame 244: Processing Time = 0.0107 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:16,102 - Frame 245: Processing Time = 0.0120 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:16,144 - Frame 246: Processing Time = 0.0120 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:16,180 - Frame 247: Processing Time = 0.0109 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:16,217 - Frame 248: Processing Time = 0.0092 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:16,253 - Frame 249: Processing Time = 0.0091 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:16,290 - Frame 250: Processing Time = 0.0109 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:16,323 - Frame 251: Processing Time = 0.0089 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:16,357 - Frame 252: Processing Time = 0.0086 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:16,389 - Frame 253: Processing Time = 0.0085 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:16,424 - Frame 254: Processing Time = 0.0108 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:16,459 - Frame 255: Processing Time = 0.0107 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:16,492 - Frame 256: Processing Time = 0.0090 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:16,526 - Frame 257: Processing Time = 0.0086 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:16,559 - Frame 258: Processing Time = 0.0084 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:16,592 - Frame 259: Processing Time = 0.0093 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:16,626 - Frame 260: Processing Time = 0.0088 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:16,665 - Frame 261: Processing Time = 0.0108 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:16,706 - Frame 262: Processing Time = 0.0115 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:16,741 - Frame 263: Processing Time = 0.0091 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:16,775 - Frame 264: Processing Time = 0.0089 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:16,811 - Frame 265: Processing Time = 0.0090 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:16,845 - Frame 266: Processing Time = 0.0087 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:16,878 - Frame 267: Processing Time = 0.0090 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:16,911 - Frame 268: Processing Time = 0.0086 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:16,945 - Frame 269: Processing Time = 0.0085 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:16,978 - Frame 270: Processing Time = 0.0090 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,013 - Frame 271: Processing Time = 0.0089 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,048 - Frame 272: Processing Time = 0.0092 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,087 - Frame 273: Processing Time = 0.0091 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,120 - Frame 274: Processing Time = 0.0082 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,154 - Frame 275: Processing Time = 0.0091 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,187 - Frame 276: Processing Time = 0.0087 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,223 - Frame 277: Processing Time = 0.0096 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,257 - Frame 278: Processing Time = 0.0087 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,294 - Frame 279: Processing Time = 0.0116 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,333 - Frame 280: Processing Time = 0.0083 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,368 - Frame 281: Processing Time = 0.0104 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,403 - Frame 282: Processing Time = 0.0088 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,439 - Frame 283: Processing Time = 0.0094 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,479 - Frame 284: Processing Time = 0.0106 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,515 - Frame 285: Processing Time = 0.0096 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,551 - Frame 286: Processing Time = 0.0094 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,588 - Frame 287: Processing Time = 0.0104 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,627 - Frame 288: Processing Time = 0.0109 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,662 - Frame 289: Processing Time = 0.0093 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,699 - Frame 290: Processing Time = 0.0110 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,738 - Frame 291: Processing Time = 0.0118 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,773 - Frame 292: Processing Time = 0.0087 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,805 - Frame 293: Processing Time = 0.0086 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,838 - Frame 294: Processing Time = 0.0088 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,873 - Frame 295: Processing Time = 0.0088 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,907 - Frame 296: Processing Time = 0.0085 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,941 - Frame 297: Processing Time = 0.0101 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:17,975 - Frame 298: Processing Time = 0.0098 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,008 - Frame 299: Processing Time = 0.0087 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,046 - Frame 300: Processing Time = 0.0127 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,086 - Frame 301: Processing Time = 0.0127 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,119 - Frame 302: Processing Time = 0.0082 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,157 - Frame 303: Processing Time = 0.0124 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,189 - Frame 304: Processing Time = 0.0083 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,226 - Frame 305: Processing Time = 0.0116 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,259 - Frame 306: Processing Time = 0.0082 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,293 - Frame 307: Processing Time = 0.0090 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,325 - Frame 308: Processing Time = 0.0082 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,360 - Frame 309: Processing Time = 0.0086 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,395 - Frame 310: Processing Time = 0.0107 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,429 - Frame 311: Processing Time = 0.0084 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,461 - Frame 312: Processing Time = 0.0086 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,495 - Frame 313: Processing Time = 0.0092 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,530 - Frame 314: Processing Time = 0.0089 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,564 - Frame 315: Processing Time = 0.0098 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,602 - Frame 316: Processing Time = 0.0128 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,640 - Frame 317: Processing Time = 0.0124 seconds, Empty Spaces = 13/69
+2024-07-26 15:14:18,677 - Frame 318: Processing Time = 0.0120 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,711 - Frame 319: Processing Time = 0.0083 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,748 - Frame 320: Processing Time = 0.0119 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,785 - Frame 321: Processing Time = 0.0115 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,821 - Frame 322: Processing Time = 0.0095 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,859 - Frame 323: Processing Time = 0.0118 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,891 - Frame 324: Processing Time = 0.0082 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,930 - Frame 325: Processing Time = 0.0125 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,962 - Frame 326: Processing Time = 0.0083 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:18,994 - Frame 327: Processing Time = 0.0083 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:19,028 - Frame 328: Processing Time = 0.0086 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:19,062 - Frame 329: Processing Time = 0.0087 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:19,100 - Frame 330: Processing Time = 0.0126 seconds, Empty Spaces = 14/69
+2024-07-26 15:14:19,134 - Frame 331: Processing Time = 0.0090 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:19,166 - Frame 332: Processing Time = 0.0081 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:19,203 - Frame 333: Processing Time = 0.0115 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:19,240 - Frame 334: Processing Time = 0.0109 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:19,277 - Frame 335: Processing Time = 0.0120 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:19,313 - Frame 336: Processing Time = 0.0107 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:19,352 - Frame 337: Processing Time = 0.0126 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:19,389 - Frame 338: Processing Time = 0.0119 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:19,421 - Frame 339: Processing Time = 0.0083 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:19,458 - Frame 340: Processing Time = 0.0120 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:19,495 - Frame 341: Processing Time = 0.0115 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:19,534 - Frame 342: Processing Time = 0.0122 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:19,572 - Frame 343: Processing Time = 0.0117 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:19,609 - Frame 344: Processing Time = 0.0114 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:19,646 - Frame 345: Processing Time = 0.0113 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:19,681 - Frame 346: Processing Time = 0.0111 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:19,717 - Frame 347: Processing Time = 0.0110 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:19,750 - Frame 348: Processing Time = 0.0080 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:19,790 - Frame 349: Processing Time = 0.0126 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:19,829 - Frame 350: Processing Time = 0.0125 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:19,863 - Frame 351: Processing Time = 0.0092 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:19,896 - Frame 352: Processing Time = 0.0084 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:19,932 - Frame 353: Processing Time = 0.0122 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:19,967 - Frame 354: Processing Time = 0.0103 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,002 - Frame 355: Processing Time = 0.0107 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,041 - Frame 356: Processing Time = 0.0126 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,078 - Frame 357: Processing Time = 0.0115 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,112 - Frame 358: Processing Time = 0.0096 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,149 - Frame 359: Processing Time = 0.0120 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,187 - Frame 360: Processing Time = 0.0125 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,225 - Frame 361: Processing Time = 0.0118 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,258 - Frame 362: Processing Time = 0.0084 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,295 - Frame 363: Processing Time = 0.0124 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,330 - Frame 364: Processing Time = 0.0105 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,368 - Frame 365: Processing Time = 0.0123 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,405 - Frame 366: Processing Time = 0.0105 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,442 - Frame 367: Processing Time = 0.0124 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,481 - Frame 368: Processing Time = 0.0128 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,514 - Frame 369: Processing Time = 0.0084 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,554 - Frame 370: Processing Time = 0.0110 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,590 - Frame 371: Processing Time = 0.0107 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,628 - Frame 372: Processing Time = 0.0113 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,665 - Frame 373: Processing Time = 0.0118 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,702 - Frame 374: Processing Time = 0.0124 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,737 - Frame 375: Processing Time = 0.0105 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,774 - Frame 376: Processing Time = 0.0117 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,809 - Frame 377: Processing Time = 0.0103 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,846 - Frame 378: Processing Time = 0.0112 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,877 - Frame 379: Processing Time = 0.0081 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,918 - Frame 380: Processing Time = 0.0121 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,954 - Frame 381: Processing Time = 0.0112 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:20,987 - Frame 382: Processing Time = 0.0095 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,026 - Frame 383: Processing Time = 0.0123 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,062 - Frame 384: Processing Time = 0.0113 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,100 - Frame 385: Processing Time = 0.0119 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,138 - Frame 386: Processing Time = 0.0129 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,175 - Frame 387: Processing Time = 0.0121 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,208 - Frame 388: Processing Time = 0.0090 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,245 - Frame 389: Processing Time = 0.0121 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,282 - Frame 390: Processing Time = 0.0125 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,321 - Frame 391: Processing Time = 0.0121 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,359 - Frame 392: Processing Time = 0.0127 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,395 - Frame 393: Processing Time = 0.0110 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,430 - Frame 394: Processing Time = 0.0114 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,467 - Frame 395: Processing Time = 0.0122 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,505 - Frame 396: Processing Time = 0.0129 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,543 - Frame 397: Processing Time = 0.0126 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,576 - Frame 398: Processing Time = 0.0093 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,616 - Frame 399: Processing Time = 0.0124 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,654 - Frame 400: Processing Time = 0.0124 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,692 - Frame 401: Processing Time = 0.0117 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,729 - Frame 402: Processing Time = 0.0115 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,767 - Frame 403: Processing Time = 0.0126 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,807 - Frame 404: Processing Time = 0.0123 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,844 - Frame 405: Processing Time = 0.0121 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,881 - Frame 406: Processing Time = 0.0121 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,914 - Frame 407: Processing Time = 0.0085 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,952 - Frame 408: Processing Time = 0.0123 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:21,990 - Frame 409: Processing Time = 0.0126 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,023 - Frame 410: Processing Time = 0.0099 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,061 - Frame 411: Processing Time = 0.0123 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,098 - Frame 412: Processing Time = 0.0127 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,136 - Frame 413: Processing Time = 0.0121 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,174 - Frame 414: Processing Time = 0.0122 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,205 - Frame 415: Processing Time = 0.0080 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,242 - Frame 416: Processing Time = 0.0113 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,279 - Frame 417: Processing Time = 0.0123 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,315 - Frame 418: Processing Time = 0.0106 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,353 - Frame 419: Processing Time = 0.0122 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,388 - Frame 420: Processing Time = 0.0103 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,425 - Frame 421: Processing Time = 0.0120 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,463 - Frame 422: Processing Time = 0.0118 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,503 - Frame 423: Processing Time = 0.0139 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,539 - Frame 424: Processing Time = 0.0105 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,576 - Frame 425: Processing Time = 0.0126 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,609 - Frame 426: Processing Time = 0.0088 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,644 - Frame 427: Processing Time = 0.0104 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,680 - Frame 428: Processing Time = 0.0107 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,716 - Frame 429: Processing Time = 0.0105 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,749 - Frame 430: Processing Time = 0.0088 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,782 - Frame 431: Processing Time = 0.0085 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,818 - Frame 432: Processing Time = 0.0098 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,853 - Frame 433: Processing Time = 0.0098 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,887 - Frame 434: Processing Time = 0.0086 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,922 - Frame 435: Processing Time = 0.0087 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,958 - Frame 436: Processing Time = 0.0110 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:22,991 - Frame 437: Processing Time = 0.0081 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,024 - Frame 438: Processing Time = 0.0082 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,057 - Frame 439: Processing Time = 0.0089 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,091 - Frame 440: Processing Time = 0.0105 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,124 - Frame 441: Processing Time = 0.0092 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,156 - Frame 442: Processing Time = 0.0085 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,189 - Frame 443: Processing Time = 0.0081 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,228 - Frame 444: Processing Time = 0.0128 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,263 - Frame 445: Processing Time = 0.0098 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,297 - Frame 446: Processing Time = 0.0085 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,334 - Frame 447: Processing Time = 0.0125 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,368 - Frame 448: Processing Time = 0.0099 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,403 - Frame 449: Processing Time = 0.0095 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,438 - Frame 450: Processing Time = 0.0092 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,471 - Frame 451: Processing Time = 0.0088 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,510 - Frame 452: Processing Time = 0.0140 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,544 - Frame 453: Processing Time = 0.0090 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,582 - Frame 454: Processing Time = 0.0123 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,616 - Frame 455: Processing Time = 0.0088 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,651 - Frame 456: Processing Time = 0.0086 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,689 - Frame 457: Processing Time = 0.0125 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,726 - Frame 458: Processing Time = 0.0114 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,763 - Frame 459: Processing Time = 0.0117 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,796 - Frame 460: Processing Time = 0.0093 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,828 - Frame 461: Processing Time = 0.0087 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,865 - Frame 462: Processing Time = 0.0112 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,899 - Frame 463: Processing Time = 0.0110 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,935 - Frame 464: Processing Time = 0.0113 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:23,972 - Frame 465: Processing Time = 0.0123 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,010 - Frame 466: Processing Time = 0.0122 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,047 - Frame 467: Processing Time = 0.0123 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,085 - Frame 468: Processing Time = 0.0117 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,123 - Frame 469: Processing Time = 0.0122 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,158 - Frame 470: Processing Time = 0.0095 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,192 - Frame 471: Processing Time = 0.0093 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,228 - Frame 472: Processing Time = 0.0085 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,262 - Frame 473: Processing Time = 0.0099 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,299 - Frame 474: Processing Time = 0.0123 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,337 - Frame 475: Processing Time = 0.0122 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,370 - Frame 476: Processing Time = 0.0087 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,405 - Frame 477: Processing Time = 0.0091 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,439 - Frame 478: Processing Time = 0.0088 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,476 - Frame 479: Processing Time = 0.0123 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,514 - Frame 480: Processing Time = 0.0131 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,553 - Frame 481: Processing Time = 0.0124 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,589 - Frame 482: Processing Time = 0.0112 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,622 - Frame 483: Processing Time = 0.0083 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,659 - Frame 484: Processing Time = 0.0118 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,695 - Frame 485: Processing Time = 0.0107 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,732 - Frame 486: Processing Time = 0.0122 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,765 - Frame 487: Processing Time = 0.0084 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,798 - Frame 488: Processing Time = 0.0094 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,832 - Frame 489: Processing Time = 0.0094 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,868 - Frame 490: Processing Time = 0.0105 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,906 - Frame 491: Processing Time = 0.0118 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,942 - Frame 492: Processing Time = 0.0112 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:24,980 - Frame 493: Processing Time = 0.0123 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,018 - Frame 494: Processing Time = 0.0113 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,054 - Frame 495: Processing Time = 0.0111 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,093 - Frame 496: Processing Time = 0.0132 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,131 - Frame 497: Processing Time = 0.0114 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,166 - Frame 498: Processing Time = 0.0110 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,204 - Frame 499: Processing Time = 0.0116 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,241 - Frame 500: Processing Time = 0.0117 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,279 - Frame 501: Processing Time = 0.0121 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,315 - Frame 502: Processing Time = 0.0112 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,354 - Frame 503: Processing Time = 0.0124 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,389 - Frame 504: Processing Time = 0.0113 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,428 - Frame 505: Processing Time = 0.0127 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,466 - Frame 506: Processing Time = 0.0125 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,506 - Frame 507: Processing Time = 0.0133 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,542 - Frame 508: Processing Time = 0.0109 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,578 - Frame 509: Processing Time = 0.0118 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,613 - Frame 510: Processing Time = 0.0090 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,661 - Frame 511: Processing Time = 0.0086 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,696 - Frame 512: Processing Time = 0.0100 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,734 - Frame 513: Processing Time = 0.0127 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,767 - Frame 514: Processing Time = 0.0088 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,802 - Frame 515: Processing Time = 0.0105 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,839 - Frame 516: Processing Time = 0.0118 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,875 - Frame 517: Processing Time = 0.0107 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,912 - Frame 518: Processing Time = 0.0119 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,947 - Frame 519: Processing Time = 0.0107 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:25,987 - Frame 520: Processing Time = 0.0137 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,027 - Frame 521: Processing Time = 0.0127 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,063 - Frame 522: Processing Time = 0.0104 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,095 - Frame 523: Processing Time = 0.0083 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,133 - Frame 524: Processing Time = 0.0119 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,167 - Frame 525: Processing Time = 0.0099 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,205 - Frame 526: Processing Time = 0.0121 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,241 - Frame 527: Processing Time = 0.0114 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,280 - Frame 528: Processing Time = 0.0128 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,315 - Frame 529: Processing Time = 0.0094 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,353 - Frame 530: Processing Time = 0.0127 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,388 - Frame 531: Processing Time = 0.0108 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,423 - Frame 532: Processing Time = 0.0090 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,460 - Frame 533: Processing Time = 0.0123 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,498 - Frame 534: Processing Time = 0.0120 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,533 - Frame 535: Processing Time = 0.0088 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,566 - Frame 536: Processing Time = 0.0086 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,602 - Frame 537: Processing Time = 0.0103 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,636 - Frame 538: Processing Time = 0.0087 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,673 - Frame 539: Processing Time = 0.0119 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,706 - Frame 540: Processing Time = 0.0084 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,744 - Frame 541: Processing Time = 0.0118 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,780 - Frame 542: Processing Time = 0.0113 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,815 - Frame 543: Processing Time = 0.0112 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,852 - Frame 544: Processing Time = 0.0116 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,889 - Frame 545: Processing Time = 0.0117 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,928 - Frame 546: Processing Time = 0.0135 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:26,965 - Frame 547: Processing Time = 0.0113 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,003 - Frame 548: Processing Time = 0.0125 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,040 - Frame 549: Processing Time = 0.0113 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,078 - Frame 550: Processing Time = 0.0131 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,113 - Frame 551: Processing Time = 0.0092 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,150 - Frame 552: Processing Time = 0.0111 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,186 - Frame 553: Processing Time = 0.0110 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,223 - Frame 554: Processing Time = 0.0114 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,255 - Frame 555: Processing Time = 0.0085 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,290 - Frame 556: Processing Time = 0.0105 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,328 - Frame 557: Processing Time = 0.0111 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,365 - Frame 558: Processing Time = 0.0123 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,399 - Frame 559: Processing Time = 0.0096 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,434 - Frame 560: Processing Time = 0.0110 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,470 - Frame 561: Processing Time = 0.0109 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,504 - Frame 562: Processing Time = 0.0090 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,538 - Frame 563: Processing Time = 0.0093 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,574 - Frame 564: Processing Time = 0.0106 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,608 - Frame 565: Processing Time = 0.0092 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,644 - Frame 566: Processing Time = 0.0110 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,683 - Frame 567: Processing Time = 0.0128 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,718 - Frame 568: Processing Time = 0.0091 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,754 - Frame 569: Processing Time = 0.0110 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,787 - Frame 570: Processing Time = 0.0087 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,823 - Frame 571: Processing Time = 0.0105 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,856 - Frame 572: Processing Time = 0.0089 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,894 - Frame 573: Processing Time = 0.0125 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,933 - Frame 574: Processing Time = 0.0128 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:27,967 - Frame 575: Processing Time = 0.0098 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,002 - Frame 576: Processing Time = 0.0100 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,040 - Frame 577: Processing Time = 0.0119 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,077 - Frame 578: Processing Time = 0.0114 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,112 - Frame 579: Processing Time = 0.0105 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,150 - Frame 580: Processing Time = 0.0123 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,187 - Frame 581: Processing Time = 0.0116 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,225 - Frame 582: Processing Time = 0.0115 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,260 - Frame 583: Processing Time = 0.0099 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,298 - Frame 584: Processing Time = 0.0121 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,331 - Frame 585: Processing Time = 0.0094 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,364 - Frame 586: Processing Time = 0.0086 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,398 - Frame 587: Processing Time = 0.0099 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,436 - Frame 588: Processing Time = 0.0124 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,472 - Frame 589: Processing Time = 0.0107 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,509 - Frame 590: Processing Time = 0.0106 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,546 - Frame 591: Processing Time = 0.0120 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,578 - Frame 592: Processing Time = 0.0086 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,613 - Frame 593: Processing Time = 0.0091 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,647 - Frame 594: Processing Time = 0.0089 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,680 - Frame 595: Processing Time = 0.0087 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,713 - Frame 596: Processing Time = 0.0090 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,747 - Frame 597: Processing Time = 0.0098 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,784 - Frame 598: Processing Time = 0.0107 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,824 - Frame 599: Processing Time = 0.0134 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,861 - Frame 600: Processing Time = 0.0120 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,897 - Frame 601: Processing Time = 0.0097 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,932 - Frame 602: Processing Time = 0.0090 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:28,977 - Frame 603: Processing Time = 0.0121 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,015 - Frame 604: Processing Time = 0.0119 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,053 - Frame 605: Processing Time = 0.0126 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,087 - Frame 606: Processing Time = 0.0103 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,123 - Frame 607: Processing Time = 0.0106 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,160 - Frame 608: Processing Time = 0.0124 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,193 - Frame 609: Processing Time = 0.0088 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,226 - Frame 610: Processing Time = 0.0088 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,260 - Frame 611: Processing Time = 0.0088 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,295 - Frame 612: Processing Time = 0.0094 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,333 - Frame 613: Processing Time = 0.0125 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,372 - Frame 614: Processing Time = 0.0125 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,412 - Frame 615: Processing Time = 0.0127 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,450 - Frame 616: Processing Time = 0.0126 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,486 - Frame 617: Processing Time = 0.0114 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,519 - Frame 618: Processing Time = 0.0085 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,552 - Frame 619: Processing Time = 0.0086 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,585 - Frame 620: Processing Time = 0.0087 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,619 - Frame 621: Processing Time = 0.0086 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,652 - Frame 622: Processing Time = 0.0082 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,685 - Frame 623: Processing Time = 0.0088 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,723 - Frame 624: Processing Time = 0.0122 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,760 - Frame 625: Processing Time = 0.0111 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,793 - Frame 626: Processing Time = 0.0087 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,826 - Frame 627: Processing Time = 0.0083 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,862 - Frame 628: Processing Time = 0.0107 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,900 - Frame 629: Processing Time = 0.0123 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,934 - Frame 630: Processing Time = 0.0108 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:29,973 - Frame 631: Processing Time = 0.0123 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,006 - Frame 632: Processing Time = 0.0092 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,042 - Frame 633: Processing Time = 0.0117 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,081 - Frame 634: Processing Time = 0.0130 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,120 - Frame 635: Processing Time = 0.0121 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,155 - Frame 636: Processing Time = 0.0106 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,189 - Frame 637: Processing Time = 0.0094 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,229 - Frame 638: Processing Time = 0.0126 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,266 - Frame 639: Processing Time = 0.0115 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,303 - Frame 640: Processing Time = 0.0117 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,340 - Frame 641: Processing Time = 0.0117 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,373 - Frame 642: Processing Time = 0.0085 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,405 - Frame 643: Processing Time = 0.0086 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,439 - Frame 644: Processing Time = 0.0085 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,472 - Frame 645: Processing Time = 0.0083 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,505 - Frame 646: Processing Time = 0.0088 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,540 - Frame 647: Processing Time = 0.0106 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,573 - Frame 648: Processing Time = 0.0082 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,604 - Frame 649: Processing Time = 0.0081 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,642 - Frame 650: Processing Time = 0.0117 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,676 - Frame 651: Processing Time = 0.0092 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,710 - Frame 652: Processing Time = 0.0087 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,747 - Frame 653: Processing Time = 0.0117 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,779 - Frame 654: Processing Time = 0.0085 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,818 - Frame 655: Processing Time = 0.0124 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,855 - Frame 656: Processing Time = 0.0124 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,887 - Frame 657: Processing Time = 0.0085 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,923 - Frame 658: Processing Time = 0.0108 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,958 - Frame 659: Processing Time = 0.0106 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:30,990 - Frame 660: Processing Time = 0.0092 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:31,027 - Frame 661: Processing Time = 0.0111 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:31,065 - Frame 662: Processing Time = 0.0126 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:31,101 - Frame 663: Processing Time = 0.0113 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:31,138 - Frame 664: Processing Time = 0.0110 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:31,175 - Frame 665: Processing Time = 0.0121 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:31,213 - Frame 666: Processing Time = 0.0127 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:31,250 - Frame 667: Processing Time = 0.0122 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:31,288 - Frame 668: Processing Time = 0.0121 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:31,325 - Frame 669: Processing Time = 0.0110 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:31,360 - Frame 670: Processing Time = 0.0111 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:31,397 - Frame 671: Processing Time = 0.0114 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:31,430 - Frame 672: Processing Time = 0.0088 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:31,463 - Frame 673: Processing Time = 0.0090 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:31,503 - Frame 674: Processing Time = 0.0131 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:31,541 - Frame 675: Processing Time = 0.0118 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:31,580 - Frame 676: Processing Time = 0.0130 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:31,613 - Frame 677: Processing Time = 0.0088 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:31,650 - Frame 678: Processing Time = 0.0117 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:31,688 - Frame 679: Processing Time = 0.0125 seconds, Empty Spaces = 15/69
+2024-07-26 15:14:31,711 - Average Processing Time per Frame: 0.0106 seconds
+2024-07-26 15:14:31,712 - Total Processing Time: 7.2089 seconds
